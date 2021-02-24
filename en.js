@@ -163,5 +163,8 @@ export default {
                 leaveTips: "Leave without saving ?"
             },
         },
+    },
+    client: {
+        exit: "Exit"
     }
 }

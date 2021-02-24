@@ -163,5 +163,8 @@ export default {
                 leaveTips: "尚未保持，确认离开？"
             }
         },
+    },
+    client: {
+        exit: "退出"
     }
 }
