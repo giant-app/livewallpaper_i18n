@@ -1,0 +1,167 @@
+{
+  "lan": "中文",
+  "common": {
+    "meta": {
+      "description": "巨应壁纸官方网站",
+      "keywords": "巨应壁纸,巨应动态壁纸,免费动态壁纸,免费版Wallpaper Engine"
+    },
+    "validate": {
+      "required": "该字段不能为空",
+      "email": "邮箱格式不正确",
+      "password": "密码应为{min}-{max}位带字母数字字符串",
+      "confirmPassword": "密码不一致",
+      "max": "最大长度为{max}"
+    },
+    "appName": "巨应壁纸",
+    "studioName": "巨应工作室",
+    "poweredBy": "本站由 <a href='{url}'>{author}</a> 驱动",
+    "lanContribute": "贡献多语言",
+    "signUp": "注册",
+    "login": "登录",
+    "findpassword": "忘记密码",
+    "wechatLogin": "微信登陆",
+    "logout": "注销",
+    "copyright": "@2018-2020 {studio}",
+    "videoWP": "视频壁纸",
+    "imageWP": "图片壁纸",
+    "htmlWP": "网页壁纸",
+    "exeWP": "应用程序壁纸",
+    "start": "开始",
+    "stop": "停止",
+    "close": "关闭",
+    "more": "更多",
+    "settings": "设置",
+    "downloadClient": "下载客户端",
+    "wallpaper": "壁纸",
+    "cover": "封面",
+    "home": "首页",
+    "multiLanguage": "多语言",
+    "save": "保存",
+    "submit": "提交",
+    "disable": "禁用",
+    "pause": "暂停",
+    "play": "播放",
+    "create": "创建",
+    "noClient": "似乎巨应客户端没有启动",
+    "openClient": "打开客户端",
+    "afterOpenClientTips": "打开壁纸客户端后，你需要刷新页面获取数据。",
+    "edit": "修改",
+    "delete": "删除",
+    "cancel": "取消",
+    "refresh": "刷新",
+    "installFFmpeg": "安装FFmpeg",
+    "needFFmpeg": "你需要安装FFmpeg才能生成视频截图。",
+    "regenerate": "重新生成",
+    "clickToInstall": "点击安装",
+    "generatingCover": "正在生成封面..",
+    "uploadCover": "上传封面",
+    "signedOut": "账户已退出！",
+    "email": "邮箱",
+    "oldPassword": "旧密码",
+    "password": "密码",
+    "confirmPassword": "确认密码",
+    "uploaded": "上传成功"
+  },
+  "home": {
+    "title": "",
+    "meta": {
+      "description": "",
+      "keywords": ""
+    },
+    "intro": "一个精致的Window10 动(静)态壁纸开源软件",
+    "download1": "立刻安装",
+    "download2": "手动安装",
+    "whyUse1": "免费",
+    "whyUse1Tips": "专业白嫖，为爱发电",
+    "whyUse2": "开源",
+    "whyUse2Tips": "客户端GitHub开源，不作恶不搞事",
+    "whyUse3": "轻量",
+    "whyUse3Tips": "简洁快速，没有无用捆绑功能",
+    "whyUse4": "社区",
+    "whyUse4Tips": "轻松上传，下载，收藏壁纸"
+  },
+  "local": {
+    "title": "本地壁纸",
+    "meta": {
+      "description": "",
+      "keywords": ""
+    },
+    "setupPlayerTip": "首次运行{type}，需要安装渲染器",
+    "customUrlTip": "自定义下载地址",
+    "customUrlPlaceholder": "输入自定义地址",
+    "downloading": "下载中 {progress}%",
+    "downloadComplete": "下载完成",
+    "waitStart": "等待开始",
+    "unzipping": "解压中 {progress}%",
+    "unzipComplete": "解压完成",
+    "noWallpapers": "还没有壁纸",
+    "deletingWallpaper": "删除壁纸确认",
+    "deletingWallpaperConfirmMessage": "你确定要{delete} <b>{name}</b> 吗？这个操作将真正删除文件，并且无法恢复。",
+    "wallpaperDeleted": "壁纸已删除",
+    "openFileDir": "打开壁纸所在目录"
+  },
+  "login": {
+    "title": "登陆账户",
+    "loginTips": "登录即代表你同意<a href='https://giantapp.cn/post/protocols/user-licence/' target='_blank'>《用户协议》</a> 和<a target='_blank' href='https://giantapp.cn/post/protocols/privacy-pc/'>《隐私政策》 </a>"
+  },
+  "register": {
+    "registerTips": "我同意<a href='https://giantapp.cn/post/protocols/user-licence/' target='_blank'>《用户协议》</a> 和<a target='_blank' href='https://giantapp.cn/post/protocols/privacy-pc/'>《隐私政策》 </a>"
+  },
+  "community": {
+    "title": "壁纸社区",
+    "meta": {
+      "description": "",
+      "keywords": ""
+    }
+  },
+  "dashboard": {
+    "menus": {
+      "content": "内容管理",
+      "createWallpaper": "创建壁纸",
+      "wallpapers": "稿件管理",
+      "account": "账户",
+      "profile": "个人信息",
+      "setpwd": "修改密码",
+      "client": "客户端",
+      "localSettings": "本地设置",
+      "upload": "投稿"
+    },
+    "wallpapers": {},
+    "client": {
+      "setting": {
+        "title": "本地设置",
+        "general": "常规",
+        "startWithSystem": "开机启动",
+        "appMaximizedEffectAllScreen": "当窗口最大化时暂停或停止所有屏幕的壁纸",
+        "audioScreen": "音源",
+        "thirdpartToolsDir": "第三方工具目录",
+        "thirdpartToolsDirTips": "例如 C:\\LiveWallpaperTools\\",
+        "externalPlayerFolder": "渲染器目录",
+        "externalPlayerFolderTips": "例如 C:\\LiveWallpaperPlayers\\",
+        "forwardMouseEvent": "转发鼠标事件",
+        "wallpaperSaveDir": "壁纸目录",
+        "wallpaperSaveDirTips": "例如 C:\\LiveWallpaper\\",
+        "screenParameter": "{screenName} 参数",
+        "whenAppMaximized": "当窗口最大化时",
+        "savedSuccessfully": "保存成功",
+        "saveFailed": "保存失败"
+      },
+      "editor": {
+        "uploadTips": "拖入文件或者点击上传",
+        "uploadCancelled": "上传已取消",
+        "title": "标题",
+        "titlePlaceholder": "标题不能为空",
+        "description": "描述",
+        "descriptionPlaceholder": "描述你的壁纸（选填）",
+        "original": "原创壁纸",
+        "originalTips": "如果这不是你自己原创的壁纸，请不要勾选此选项",
+        "tag": "标签",
+        "tagPlaceholder": "给壁纸添加标签，方便本地归类。（例如：游戏，风景，人物，魔兽世界，英雄联盟等）",
+        "leaveTips": "尚未保持，确认离开？"
+      }
+    }
+  },
+  "client": {
+    "exit": "退出"
+  }
+}
