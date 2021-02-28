@@ -60,7 +60,8 @@
     "oldPassword": "Old Password",
     "password": "Password",
     "confirmPassword": "Confirm password",
-    "uploaded": "Uploaded"
+    "uploaded": "Uploaded",
+    "information": "Info"
   },
   "home": {
     "title": "",
@@ -162,6 +163,7 @@
     }
   },
   "client": {
-    "exit": "Exit"
+    "exit": "Exit",
+    "started": "An instance of the client has been started, please check the bottom right of the desktop."
   }
 }
