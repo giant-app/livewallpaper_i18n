@@ -18,6 +18,7 @@
     "lanContribute": "贡献多语言",
     "signUp": "注册",
     "login": "登录",
+    "logged": "已登录",
     "findpassword": "忘记密码",
     "wechatLogin": "微信登陆",
     "logout": "注销",
@@ -38,6 +39,7 @@
     "multiLanguage": "多语言",
     "save": "保存",
     "submit": "提交",
+    "submitSuccess": "提交成功",
     "disable": "禁用",
     "pause": "暂停",
     "play": "播放",
@@ -61,15 +63,21 @@
     "password": "密码",
     "confirmPassword": "确认密码",
     "uploaded": "上传成功",
-    "information": "提示"
+    "information": "提示",
+    "createSuccess": "创建成功",
+    "ok": "确定",
+    "viewNow": "立即查看"
   },
-  "home": {
-    "title": "",
+  "findpassword": {
+    "msg": "邮件发送成功，请去邮箱修改密码。"
+  },
+  "index": {
+    "title": "巨应壁纸",
     "meta": {
-      "description": "",
-      "keywords": ""
+      "description": "一款免费开源的win10动态壁纸软件 - 巨应壁纸官方网站",
+      "keywords": "巨应壁纸，win10壁纸，动态壁纸"
     },
-    "intro": "一个精致的Window10 动(静)态壁纸开源软件",
+    "intro": "一个精致的Window10 (动)态壁纸开源软件",
     "download1": "立刻安装",
     "download2": "手动安装",
     "whyUse1": "免费",
@@ -103,19 +111,35 @@
   },
   "login": {
     "title": "登陆账户",
-    "loginTips": "登录即代表你同意<a href='https://giantapp.cn/post/protocols/user-licence/' target='_blank'>《用户协议》</a> 和<a target='_blank' href='https://giantapp.cn/post/protocols/privacy-pc/'>《隐私政策》 </a>"
+    "loginTips": "登录即代表你同意<a href='https://giantapp.cn/post/protocols/user-licence/' target='_blank'>《用户协议》</a> 和<a target='_blank' href='https://giantapp.cn/post/protocols/privacy-pc/'>《隐私政策》 </a>",
+    "needRightFromUrl": "你必须登录才能访问 <strong>{url}</strong>"
   },
   "register": {
-    "registerTips": "我同意<a href='https://giantapp.cn/post/protocols/user-licence/' target='_blank'>《用户协议》</a> 和<a target='_blank' href='https://giantapp.cn/post/protocols/privacy-pc/'>《隐私政策》 </a>"
+    "registerTips": "我同意<a href='https://giantapp.cn/post/protocols/user-licence/' target='_blank'>《用户协议》</a> 和<a target='_blank' href='https://giantapp.cn/post/protocols/privacy-pc/'>《隐私政策》 </a>",
+    "title": "注册账户",
+    "register": "注册",
+    "haveAccount": "已有账户",
+    "regSuccess": "注册成功",
+    "viewEmail": "请前往邮箱激活"
   },
-  "community": {
+  "wallpapers": {
     "title": "壁纸社区",
     "meta": {
-      "description": "",
-      "keywords": ""
+      "description": "巨应壁纸社区，一个免费的壁纸交流社区",
+      "keywords": "巨应壁纸社区，壁纸上传，壁纸下载，壁纸收藏，动态壁纸"
+    },
+    "info": {
+      "downloadWP": "下载壁纸",
+      "downloaded": "已下载"
     }
   },
   "dashboard": {
+    "common": {
+      "draft": "草稿",
+      "wallpaperType": "类型",
+      "wallpaperTypeOptionSelf": "自制",
+      "wallpaperTypeOptionRefer": "转载"
+    },
     "menus": {
       "content": "内容管理",
       "createWallpaper": "创建壁纸",
@@ -127,7 +151,26 @@
       "localSettings": "本地设置",
       "upload": "投稿"
     },
-    "wallpapers": {},
+    "account": {
+      "profile": {
+        "bind": "绑定",
+        "bindSuccess": "绑定成功",
+        "bound": "已绑定",
+        "unbound": "尚未绑定",
+        "nickname": "昵称",
+        "gender": "性别",
+        "genderOptionMale": "男",
+        "genderOptionFemale": "女",
+        "genderOptionOther": "其他",
+        "avatarUrl": "头像地址",
+        "bindEmailSent": "邮件已发送，注意查收"
+      }
+    },
+    "wallpapers": {
+      "editor": {
+        "copyrightDescription": "尊重版权，请转载合法作品，并标注来源地址。"
+      }
+    },
     "client": {
       "setting": {
         "title": "本地设置",

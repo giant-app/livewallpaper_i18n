@@ -18,6 +18,7 @@
     "lanContribute": "Сопровождающий вашего языка",
     "signUp": "Зарегестрироваться",
     "login": "Войти",
+    "logged": "зарегистрированный",
     "findpassword": "Забыл пароль",
     "wechatLogin": "Вход через WeChat",
     "logout": "Выйти",
@@ -38,6 +39,7 @@
     "multiLanguage": "Многоязычный",
     "save": "Сохранить",
     "submit": "Отправить",
+    "submitSuccess": "Отправлено успешно",
     "disable": "Отключить",
     "pause": "Приостановить",
     "play": "Воспроизвести",
@@ -61,13 +63,19 @@
     "password": "Пароль",
     "confirmPassword": "Подтвердить пароль",
     "uploaded": "Загружено",
-    "information": "Информация"
+    "information": "Информация",
+    "createSuccess": "Создано успешно",
+    "ok": "Ok",
+    "viewNow": "Смотри сейчас"
   },
-  "home": {
-    "title": "",
+  "findpassword": {
+    "msg": "Электронное письмо успешно отправлено, перейдите в почтовый ящик, чтобы изменить пароль."
+  },
+  "index": {
+    "title": "LiveWallpaper - Giantapp Studio",
     "meta": {
-      "description": "",
-      "keywords": ""
+      "description": "Бесплатное программное обеспечение для живых обоев win10 с открытым исходным кодом - официальный сайт LiveWallpaper",
+      "keywords": "Приложение для обоев LiveWallpaper, обои win10, живые обои"
     },
     "intro": "Изысканное приложение для Windows 10 с динамическими и статическими обоями с открытым исходным кодом",
     "download1": "Установить",
@@ -103,19 +111,35 @@
   },
   "login": {
     "title": "Вход в аккаунт",
-    "loginTips": "Производя вход, вы соглашаетесь с <a href='https://giantapp.cn/post/protocols/user-licence/' target='_blank'>Пользовательским соглашением </a> и <a target='_blank' href='https://giantapp.cn/post/protocols/privacy-pc/'>Политикой конфиденциальности </a>"
+    "loginTips": "Производя вход, вы соглашаетесь с <a href='https://giantapp.cn/post/protocols/user-licence/' target='_blank'>Пользовательским соглашением </a> и <a target='_blank' href='https://giantapp.cn/post/protocols/privacy-pc/'>Политикой конфиденциальности </a>",
+    "needRightFromUrl": "Вам необходимо войти в систему, чтобы получить доступ к <strong> {url} </strong>"
   },
   "register": {
-    "registerTips": "Я согласен с <a href='https://giantapp.cn/post/protocols/user-licence/' target='_blank'>Пользовательским соглашением </a> и <a target='_blank' href='https://giantapp.cn/post/protocols/privacy-pc/'>Политикой конфиденциальности </a>"
+    "registerTips": "Я согласен с <a href='https://giantapp.cn/post/protocols/user-licence/' target='_blank'>Пользовательским соглашением </a> и <a target='_blank' href='https://giantapp.cn/post/protocols/privacy-pc/'>Политикой конфиденциальности </a>",
+    "title": "Регистрация Аккаунта",
+    "register": "зарегистрированный",
+    "haveAccount": "Уже есть аккаунт",
+    "regSuccess": "Вы успешно зарегистрировались",
+    "viewEmail": "Пожалуйста, зайдите в почтовый ящик, чтобы активировать"
   },
-  "community": {
+  "wallpapers": {
     "title": "Сообщество обоев",
     "meta": {
-      "description": "",
-      "keywords": ""
+      "description": "LiveWallpaper Community, бесплатное сообщество по обмену обоями",
+      "keywords": "Сообщество обоев Live, загрузка обоев, загрузка обоев, коллекция обоев, живые обои"
+    },
+    "info": {
+      "downloadWP": "Скачать обои",
+      "downloaded": "Скачано"
     }
   },
   "dashboard": {
+    "common": {
+      "draft": "Проект",
+      "wallpaperType": "Виды",
+      "wallpaperTypeOptionSelf": "Ручной работы",
+      "wallpaperTypeOptionRefer": "Ссылка"
+    },
     "menus": {
       "content": "Содержимое",
       "createWallpaper": "Создать",
@@ -127,7 +151,26 @@
       "localSettings": "Настройки",
       "upload": "Загрузить"
     },
-    "wallpapers": {},
+    "account": {
+      "profile": {
+        "bind": "Связывать",
+        "bindSuccess": "Связывание успешно",
+        "bound": "Граница",
+        "unbound": "Еще не связаны",
+        "nickname": "прозвище",
+        "gender": "Пол",
+        "genderOptionMale": "мужчина",
+        "genderOptionFemale": "женский",
+        "genderOptionOther": "Другой",
+        "avatarUrl": "Адрес аватара",
+        "bindEmailSent": "Письмо было отправлено, проверьте его"
+      }
+    },
+    "wallpapers": {
+      "editor": {
+        "copyrightDescription": "Уважайте авторские права, пожалуйста, ссылайтесь на юридические работы и отметьте исходный адрес."
+      }
+    },
     "client": {
       "setting": {
         "title": "Локальные настройки",
