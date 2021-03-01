@@ -18,6 +18,7 @@
     "lanContribute": "Contribute your language",
     "signUp": "Sign up",
     "login": "Log in",
+    "logged": "Logged",
     "findpassword": "Forget Password",
     "wechatLogin": "Wechat login",
     "logout": "Logout",
@@ -38,6 +39,7 @@
     "multiLanguage": "Multi-language",
     "save": "Save",
     "submit": "Submit",
+    "submitSuccess": "Submitted successfully",
     "disable": "Disable",
     "pause": "Pause",
     "play": "Play",
@@ -61,13 +63,19 @@
     "password": "Password",
     "confirmPassword": "Confirm password",
     "uploaded": "Uploaded",
-    "information": "Info"
+    "information": "Info",
+    "createSuccess": "Created successfully",
+    "ok": "OK",
+    "viewNow": "View now"
   },
-  "home": {
-    "title": "",
+  "findpassword": {
+    "msg": "The email is sent successfully, please go to the mailbox to change the password."
+  },
+  "index": {
+    "title": "LiveWallpaper - Giantapp Studio",
     "meta": {
-      "description": "",
-      "keywords": ""
+      "description": "A free and open source win10 live wallpaper software - LiveWallpaper official website",
+      "keywords": "LiveWallpaper app, Win10 wallpaper, dynamic wallpaper"
     },
     "intro": "An exquisite Window10 dynamic (static) open source wallpaper app",
     "download1": "Install now",
@@ -103,19 +111,35 @@
   },
   "login": {
     "title": "Login account",
-    "loginTips": "Login means you agree to the <a href='https://giantapp.cn/post/protocols/user-licence/' target='_blank'>User Agreement </a> and <a target='_blank' href='https://giantapp.cn/post/protocols/privacy-pc/'>Privacy Policy </a>"
+    "loginTips": "Login means you agree to the <a href='https://giantapp.cn/post/protocols/user-licence/' target='_blank'>User Agreement </a> and <a target='_blank' href='https://giantapp.cn/post/protocols/privacy-pc/'>Privacy Policy </a>",
+    "needRightFromUrl": "You have to login before accessing to <strong>{url}</strong>"
   },
   "register": {
-    "registerTips": "I agree to the <a href='https://giantapp.cn/post/protocols/user-licence/' target='_blank'>User Agreement </a> and <a target='_blank' href='https://giantapp.cn/post/protocols/privacy-pc/'>Privacy Policy </a>"
+    "registerTips": "I agree to the <a href='https://giantapp.cn/post/protocols/user-licence/' target='_blank'>User Agreement </a> and <a target='_blank' href='https://giantapp.cn/post/protocols/privacy-pc/'>Privacy Policy </a>",
+    "title": "Register account",
+    "register": "Register",
+    "haveAccount": "Already have an account",
+    "regSuccess": "Registration success",
+    "viewEmail": "Please go to the mailbox to activate"
   },
-  "community": {
+  "wallpapers": {
     "title": "Wallpaper Community",
     "meta": {
-      "description": "",
-      "keywords": ""
+      "description": "LiveWallpaper Community, a free wallpaper exchange community",
+      "keywords": "LiveWallpaper community, wallpaper upload, wallpaper download, wallpaper collection, live wallpaper"
+    },
+    "info": {
+      "downloadWP": "Download wallpaper",
+      "downloaded": "Downloaded"
     }
   },
   "dashboard": {
+    "common": {
+      "draft": "Draft",
+      "wallpaperType": "Type",
+      "wallpaperTypeOptionSelf": "Self-made",
+      "wallpaperTypeOptionRefer": "Referenced"
+    },
     "menus": {
       "content": "Content",
       "createWallpaper": "Create",
@@ -127,7 +151,26 @@
       "localSettings": "Setting",
       "upload": "Upload"
     },
-    "wallpapers": {},
+    "account": {
+      "profile": {
+        "bind": "Bind",
+        "bindSuccess": "Bind successfully",
+        "bound": "Bound",
+        "unbound": "Not yet bound",
+        "nickname": "Nickname",
+        "gender": "Gender",
+        "genderOptionMale": "Male",
+        "genderOptionFemale": "Female",
+        "genderOptionOther": "Other",
+        "avatarUrl": "Avatar url",
+        "bindEmailSent": "The email has been sent, please check it"
+      }
+    },
+    "wallpapers": {
+      "editor": {
+        "copyrightDescription": "Respect copyright, please reference legal works and mark the source address."
+      }
+    },
     "client": {
       "setting": {
         "title": "Local setting",
