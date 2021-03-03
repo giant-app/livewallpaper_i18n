@@ -14,7 +14,8 @@
     },
     "appName": "巨应壁纸",
     "studioName": "巨应工作室",
-    "poweredBy": "本站由 <a href='{url}'>{author}</a> 驱动",
+    "poweredBy": "本站所有资源由用户上传，<a href='{url}'>{author}</a> 开发维护",
+    "disclaimer": "<a href='{email}'>侵权申诉</a>",
     "lanContribute": "贡献多语言",
     "signUp": "注册",
     "login": "登录",
@@ -130,7 +131,8 @@
     },
     "info": {
       "downloadWP": "下载壁纸",
-      "downloaded": "已下载"
+      "downloaded": "已下载",
+      "selfmadeTips": "未经作者授权，禁止转载"
     }
   },
   "dashboard": {

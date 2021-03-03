@@ -14,7 +14,8 @@
     },
     "appName": "Livewallpaper",
     "studioName": "Giantapp Studio",
-    "poweredBy": "This site is powered by <a href='{url}'>{author}</a>",
+    "poweredBy": "Disclaimer All resources on this site are uploaded by users, developed and maintained by <a href='{url}'>{author}</a>",
+    "disclaimer": "<a href='{email}'>Infringement complaint</a>",
     "lanContribute": "Contribute your language",
     "signUp": "Sign up",
     "login": "Log in",
@@ -130,7 +131,8 @@
     },
     "info": {
       "downloadWP": "Download wallpaper",
-      "downloaded": "Downloaded"
+      "downloaded": "Downloaded",
+      "selfmadeTips": "Reprinting is prohibited without the author's authorization"
     }
   },
   "dashboard": {
