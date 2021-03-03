@@ -14,7 +14,8 @@
     },
     "appName": "LiveWallpaper",
     "studioName": "Giantapp Studio",
-    "poweredBy": "Разработчик сайта: <a href='{url}'>{author}</a>",
+    "poweredBy": "Заявление об ограничении ответственности Все ресурсы на этом сайте загружены пользователями, разработаны и поддерживаются <a href='{url}'> {author} </a>",
+    "disclaimer": "<a href='{email}'> Жалоба о нарушении </a>",
     "lanContribute": "Сопровождающий вашего языка",
     "signUp": "Зарегестрироваться",
     "login": "Войти",
@@ -130,7 +131,8 @@
     },
     "info": {
       "downloadWP": "Скачать обои",
-      "downloaded": "Скачано"
+      "downloaded": "Скачано",
+      "selfmadeTips": "Перепечатка без разрешения автора запрещена"
     }
   },
   "dashboard": {
