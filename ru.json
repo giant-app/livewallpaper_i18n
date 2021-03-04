@@ -3,7 +3,7 @@
   "common": {
     "meta": {
       "description": "Официальный сайт LiveWallpaper",
-      "keywords": "Giantapp Wallpaper,LiveWallpaper,Dynamic Wallpaper,Free Wallpaper Engine,бесплатный Wallpaper Engine,живые обои,бесплатные живые обои"
+      "keywords": "Giantapp обои,LiveWallpaper,динамические обои,бесплатный Wallpaper Engine,живые обои,бесплатные живые обои"
     },
     "validate": {
       "required": "Это поле обязательно к заполнению",
@@ -16,16 +16,16 @@
     "studioName": "Giantapp Studio",
     "poweredBy": "Заявление об ограничении ответственности Все ресурсы на этом сайте загружены пользователями, разработаны и поддерживаются <a href='{url}'> {author} </a>",
     "disclaimer": "<a href='{email}'> Жалоба о нарушении </a>",
-    "lanContribute": "Сопровождающий вашего языка",
+    "lanContribute": "Сопровождающий перевода",
     "signUp": "Зарегестрироваться",
     "login": "Войти",
-    "logged": "зарегистрированный",
+    "logged": "Вход произведён",
     "findpassword": "Забыл пароль",
     "wechatLogin": "Вход через WeChat",
     "logout": "Выйти",
     "copyright": "@2018-2020 - {studio}",
     "videoWP": "Видео-обои",
-    "imageWP": "Обои-изображения",
+    "imageWP": "Статичные обои",
     "htmlWP": "Веб-обои",
     "exeWP": "Обои-приложения",
     "start": "Запустить",
@@ -37,17 +37,17 @@
     "wallpaper": "Обои",
     "cover": "Обложка",
     "home": "Домашняя",
-    "multiLanguage": "Многоязычный",
+    "multiLanguage": "Несколько языков",
     "save": "Сохранить",
     "submit": "Отправить",
-    "submitSuccess": "Отправлено успешно",
+    "submitSuccess": "Успешно отправлено",
     "disable": "Отключить",
     "pause": "Приостановить",
     "play": "Воспроизвести",
     "create": "Создать",
     "noClient": "Похоже, что клиент LiveWallpaper не запущен",
-    "openClient": "Открыть клиент",
-    "afterOpenClientTips": "После открытия клиента обоев, необходимо обновить страницу, чтобы получить данные.",
+    "openClient": "Запустить клиент",
+    "afterOpenClientTips": "После запуска клиента, необходимо обновить страницу, чтобы получить данные.",
     "edit": "Редактировать",
     "delete": "Удалить",
     "cancel": "Отмена",
@@ -58,37 +58,37 @@
     "clickToInstall": "Нажмите, чтобы установить",
     "generatingCover": "Генерация обложки...",
     "uploadCover": "Загрузить обложку",
-    "signedOut": "Вы вышли из системы!",
+    "signedOut": "Вы вышли из уч. записи!",
     "email": "Эл. почта",
     "oldPassword": "Старый пароль",
     "password": "Пароль",
     "confirmPassword": "Подтвердить пароль",
     "uploaded": "Загружено",
     "information": "Информация",
-    "createSuccess": "Создано успешно",
-    "ok": "Ok",
+    "createSuccess": "Успешно создано",
+    "ok": "ОК",
     "viewNow": "Смотри сейчас"
   },
   "findpassword": {
-    "msg": "Электронное письмо успешно отправлено, перейдите в почтовый ящик, чтобы изменить пароль."
+    "msg": "Электронное письмо успешно отправлено. Загляните на свою электронную почту, чтобы изменить пароль."
   },
   "index": {
     "title": "LiveWallpaper - Giantapp Studio",
     "meta": {
-      "description": "Бесплатное программное обеспечение для живых обоев win10 с открытым исходным кодом - официальный сайт LiveWallpaper",
+      "description": "Бесплатное программное обеспечение живых обоев для windows 10 с открытым исходным кодом - официальный сайт LiveWallpaper",
       "keywords": "Приложение для обоев LiveWallpaper, обои win10, живые обои"
     },
-    "intro": "Изысканное приложение для Windows 10 с динамическими и статическими обоями с открытым исходным кодом",
+    "intro": "Превосходное приложение для Windows 10 с динамическими и статическими обоями с открытым исходным кодом",
     "download1": "Установить",
     "download2": "Ручная установка",
     "whyUse1": "Бесплатно",
     "whyUse1Tips": "Бесплатное использование, сосредоточьтесь на бесплатном ПО",
     "whyUse2": "Открытый исходный код",
-    "whyUse2Tips": "Клиент с открытым исходным кодом на GitHub, не будь злым",
+    "whyUse2Tips": "Клиент с открытым исходным кодом на GitHub",
     "whyUse3": "Легковесный",
     "whyUse3Tips": "Простой и быстрый, никаких бесполезных функций связывания",
     "whyUse4": "Сообщество",
-    "whyUse4Tips": "Легко загружайте, скачивайте любимые обои"
+    "whyUse4Tips": "Легко отправляйте и скачивайте обои, которые вам нравятся"
   },
   "local": {
     "title": "Локальные обои",
@@ -117,17 +117,17 @@
   },
   "register": {
     "registerTips": "Я согласен с <a href='https://giantapp.cn/post/protocols/user-licence/' target='_blank'>Пользовательским соглашением </a> и <a target='_blank' href='https://giantapp.cn/post/protocols/privacy-pc/'>Политикой конфиденциальности </a>",
-    "title": "Регистрация Аккаунта",
-    "register": "зарегистрированный",
+    "title": "Регистрация уч. записи",
+    "register": "Регистрация",
     "haveAccount": "Уже есть аккаунт",
     "regSuccess": "Вы успешно зарегистрировались",
-    "viewEmail": "Пожалуйста, зайдите в почтовый ящик, чтобы активировать"
+    "viewEmail": "Для активации учётной записи, загляните на свою электронную почту"
   },
   "wallpapers": {
-    "title": "Сообщество обоев",
+    "title": "Галлерея обоев",
     "meta": {
-      "description": "LiveWallpaper Community, бесплатное сообщество по обмену обоями",
-      "keywords": "Сообщество обоев Live, загрузка обоев, загрузка обоев, коллекция обоев, живые обои"
+      "description": "Сообщество LiveWallpaper, бесплатный обмен обоями",
+      "keywords": "Сообщество живых обоев, загрузка обоев, скачивание обоев, коллекция обоев, живые обои"
     },
     "info": {
       "downloadWP": "Скачать обои",
@@ -138,7 +138,7 @@
   "dashboard": {
     "common": {
       "draft": "Проект",
-      "wallpaperType": "Виды",
+      "wallpaperType": "Тип",
       "wallpaperTypeOptionSelf": "Ручной работы",
       "wallpaperTypeOptionRefer": "Ссылка"
     },
@@ -146,7 +146,7 @@
       "content": "Содержимое",
       "createWallpaper": "Создать",
       "wallpapers": "Ваши обои",
-      "account": "Аккаунт",
+      "account": "Учйтная запись",
       "profile": "Профиль",
       "setpwd": "Изменить пароль",
       "client": "Клиент",
@@ -155,22 +155,22 @@
     },
     "account": {
       "profile": {
-        "bind": "Связывать",
-        "bindSuccess": "Связывание успешно",
-        "bound": "Граница",
+        "bind": "Связать",
+        "bindSuccess": "Успешно связано",
+        "bound": "Связанный",
         "unbound": "Еще не связаны",
-        "nickname": "прозвище",
+        "nickname": "Никнейм",
         "gender": "Пол",
-        "genderOptionMale": "мужчина",
-        "genderOptionFemale": "женский",
+        "genderOptionMale": "Мужской",
+        "genderOptionFemale": "Женский",
         "genderOptionOther": "Другой",
-        "avatarUrl": "Адрес аватара",
-        "bindEmailSent": "Письмо было отправлено, проверьте его"
+        "avatarUrl": "Ссылка на аватар",
+        "bindEmailSent": "Эл. письмо было отправлено, проверьте свою электроную почту"
       }
     },
     "wallpapers": {
       "editor": {
-        "copyrightDescription": "Уважайте авторские права, пожалуйста, ссылайтесь на юридические работы и отметьте исходный адрес."
+        "copyrightDescription": "Уважайте авторское право, ссылайтесь на юридические произведения и отмечайте адрес источника."
       }
     },
     "client": {
@@ -178,7 +178,7 @@
         "title": "Локальные настройки",
         "general": "Общие",
         "startWithSystem": "Запускать приложение при включении системы",
-        "appMaximizedEffectAllScreen": "Приостановить или остановить обои на всех экранах, когда есть окно на весь экран",
+        "appMaximizedEffectAllScreen": "Приостановить или остановить обои на всех экранах, когда запущено полноэкранное окно",
         "audioScreen": "Исходный звук",
         "thirdpartToolsDir": "Каталог сторонних инструментов",
         "thirdpartToolsDirTips": "Например: C:\\LiveWallpaperTools\\",
