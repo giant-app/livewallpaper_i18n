@@ -10,7 +10,8 @@
       "email": "This field must be a valid email",
       "password": "Password should be {min}-{max} alphanumeric string",
       "confirmPassword": "This field confirmation does not match",
-      "max": "The maximum length is {max}"
+      "max": "The maximum length is {max}",
+      "uploadSizeLimit": "The current maximum upload file cannot exceed {size}"
     },
     "appName": "Livewallpaper",
     "studioName": "Giantapp Studio",

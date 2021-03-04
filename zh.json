@@ -10,7 +10,8 @@
       "email": "邮箱格式不正确",
       "password": "密码应为{min}-{max}位带字母数字字符串",
       "confirmPassword": "密码不一致",
-      "max": "最大长度为{max}"
+      "max": "最大长度为{max}",
+      "uploadSizeLimit": "当前最大上传文件不能超过{size}"
     },
     "appName": "巨应壁纸",
     "studioName": "巨应工作室",
