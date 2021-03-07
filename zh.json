@@ -47,6 +47,8 @@
     "play": "播放",
     "create": "创建",
     "noClient": "似乎巨应客户端没有启动",
+    "needUpgradeClient": "客户端 V{version} 似乎不是最新版，请更新到最新版本",
+    "feedbackTips": "似乎程序出现了错误，请尽快<a href='https://giantapp.cn/contact' target='_blank'>联系我们</a>以便于我们修复这个异常",
     "openClient": "打开客户端",
     "afterOpenClientTips": "打开壁纸客户端后，你需要刷新页面获取数据。",
     "edit": "修改",
