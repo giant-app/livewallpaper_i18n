@@ -70,7 +70,8 @@
     "information": "Info",
     "createSuccess": "Created successfully",
     "ok": "OK",
-    "viewNow": "View now"
+    "viewNow": "View now",
+    "contact":"Contact"
   },
   "findpassword": {
     "msg": "The email is sent successfully, please go to the mailbox to change the password."

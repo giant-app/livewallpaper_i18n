@@ -70,7 +70,8 @@
     "information": "提示",
     "createSuccess": "创建成功",
     "ok": "确定",
-    "viewNow": "立即查看"
+    "viewNow": "立即查看",
+    "contact":"联系我们"
   },
   "findpassword": {
     "msg": "邮件发送成功，请去邮箱修改密码。"
