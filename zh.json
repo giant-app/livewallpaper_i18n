@@ -5,6 +5,10 @@
       "description": "巨应壁纸官方网站",
       "keywords": "巨应壁纸,巨应动态壁纸,免费动态壁纸,免费版Wallpaper Engine"
     },
+    "wallpaperOptions": {
+      "enableHwdec": "硬解 - 使用显卡解码，推荐高性能显卡用户",
+      "disableHwdec": "软解 - 如果你的显卡性能不够好，可以尝试使用CPU解码，但是此操作会提高CPU使用率"
+    },
     "validate": {
       "required": "该字段不能为空",
       "email": "邮箱格式不正确",
@@ -71,7 +75,7 @@
     "createSuccess": "创建成功",
     "ok": "确定",
     "viewNow": "立即查看",
-    "contact":"联系我们"
+    "contact": "联系我们"
   },
   "findpassword": {
     "msg": "邮件发送成功，请去邮箱修改密码。"
