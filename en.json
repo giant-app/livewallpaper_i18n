@@ -19,8 +19,8 @@
     },
     "appName": "Livewallpaper",
     "studioName": "Giantapp Studio",
-    "poweredBy": "Disclaimer All resources on this site are uploaded by users, developed and maintained by <a href='{url}'>{author}</a>",
-    "disclaimer": "<a href='{email}'>Infringement complaint</a>",
+    "poweredBy": "Disclaimer All resources on this site are uploaded by users",
+    "disclaimer": "Infringement complaint",
     "lanContribute": "Contribute your language",
     "signUp": "Sign up",
     "login": "Log in",
@@ -28,7 +28,7 @@
     "findpassword": "Forget Password",
     "wechatLogin": "Wechat login",
     "logout": "Logout",
-    "copyright": "@2018-2020 by {studio}",
+    "copyright": "@2018-2021 by {studio}",
     "videoWP": "Video Wallpaper",
     "imageWP": "Image Wallpaper",
     "htmlWP": "Html Wallpaper",
@@ -75,7 +75,8 @@
     "createSuccess": "Created successfully",
     "ok": "OK",
     "viewNow": "View now",
-    "contact": "Contact"
+    "contact": "Contact",
+    "feedback": "Feedback"
   },
   "findpassword": {
     "msg": "The email is sent successfully, please go to the mailbox to change the password."

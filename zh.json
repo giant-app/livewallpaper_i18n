@@ -19,8 +19,8 @@
     },
     "appName": "巨应壁纸",
     "studioName": "巨应工作室",
-    "poweredBy": "本站所有资源由用户上传，<a href='{url}'>{author}</a> 开发维护",
-    "disclaimer": "<a href='{email}'>侵权申诉</a>",
+    "poweredBy": "免责声明本站所有资源都由用户上传",
+    "disclaimer": "侵权申诉",
     "lanContribute": "贡献多语言",
     "signUp": "注册",
     "login": "登录",
@@ -28,7 +28,7 @@
     "findpassword": "忘记密码",
     "wechatLogin": "微信登陆",
     "logout": "注销",
-    "copyright": "@2018-2020 {studio}",
+    "copyright": "@2018-2021 {studio}",
     "videoWP": "视频壁纸",
     "imageWP": "图片壁纸",
     "htmlWP": "网页壁纸",
@@ -75,7 +75,8 @@
     "createSuccess": "创建成功",
     "ok": "确定",
     "viewNow": "立即查看",
-    "contact": "联系我们"
+    "contact": "联系我们",
+    "feedback": "意见反馈"
   },
   "findpassword": {
     "msg": "邮件发送成功，请去邮箱修改密码。"
