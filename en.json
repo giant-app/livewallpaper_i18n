@@ -6,8 +6,8 @@
       "keywords": "Giantapp Wallpaper,Livewallpaper,Dynamic Wallpaper,Free Wallpaper Engine"
     },
     "wallpaperOptions": {
-      "enableHwdec": "Hardware decoding - Use graphics card decoding, high-performance graphics card users are recommended",
-      "disableHwdec": "Software decoding - If your graphics card performance is not good enough, you can try to use CPU decoding, but this operation will increase CPU usage"
+      "enableHwdec": "Hardware decoding - Recommended for users of high-performance graphics cards",
+      "disableHwdec": "Software decoding - Users whose graphics card performance is not good enough can try this option, but it will increase CPU usage"
     },
     "validate": {
       "required": "This field is required",

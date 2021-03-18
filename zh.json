@@ -6,8 +6,8 @@
       "keywords": "巨应壁纸,巨应动态壁纸,免费动态壁纸,免费版Wallpaper Engine"
     },
     "wallpaperOptions": {
-      "enableHwdec": "硬解 - 使用显卡解码，推荐高性能显卡用户",
-      "disableHwdec": "软解 - 如果你的显卡性能不够好，可以尝试使用CPU解码，但是此操作会提高CPU使用率"
+      "enableHwdec": "硬解 - 高性能显卡用户推荐使用此项",
+      "disableHwdec": "软解 - 显卡性能不够好的用户，可以尝试此选项，但是会提高CPU使用率"
     },
     "validate": {
       "required": "该字段不能为空",
