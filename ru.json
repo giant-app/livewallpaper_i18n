@@ -200,7 +200,10 @@
         "screenParameter": "Параметры {screenName}",
         "whenAppMaximized": "Когда окно развёрнуто",
         "savedSuccessfully": "Успешно сохранено",
-        "saveFailed": "Не удалось сохранить"
+        "saveFailed": "Не удалось сохранить",
+        "panScan": "Растянуть до размеров экрана",
+        "remark": "Замечание",
+        "remarkTips": "Пользовательское имя экрана"
       },
       "editor": {
         "uploadTips": "Перетащите файл сюда или нажмите «Загрузить»",

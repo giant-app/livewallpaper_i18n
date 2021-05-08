@@ -200,7 +200,10 @@
         "screenParameter": "{screenName} parameter",
         "whenAppMaximized": "When the window is maximized",
         "savedSuccessfully": "Saved successfully",
-        "saveFailed": "Save failed"
+        "saveFailed": "Save failed",
+        "panScan": "Stretch to fit the screen",
+        "remark": "Remark",
+        "remarkTips": "Custom screen name"
       },
       "editor": {
         "uploadTips": "Drag the file here or click upload",

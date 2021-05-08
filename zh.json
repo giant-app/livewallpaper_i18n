@@ -200,7 +200,10 @@
         "screenParameter": "{screenName} 参数",
         "whenAppMaximized": "当窗口最大化时",
         "savedSuccessfully": "保存成功",
-        "saveFailed": "保存失败"
+        "saveFailed": "保存失败",
+        "panScan": "铺满拉伸",
+        "remark": "备注",
+        "remarkTips": "自定义屏幕名称"
       },
       "editor": {
         "uploadTips": "拖入文件或者点击上传",
