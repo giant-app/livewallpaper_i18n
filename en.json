@@ -52,7 +52,7 @@
     "play": "Play",
     "create": "Create",
     "noClient": "It seems that the Livewallpaper client does not start",
-    "needUpgradeClient": "Client V{version} does not seem to be the latest version, please update to the latest version",
+    "needUpgradeClient": "Client V{version} does not seem to be the latest version, please update to the latest version V{expectedVersion}",
     "feedbackTips": "It seems that there is an error in the program, please <a href='https://giantapp.cn/contact' target='_blank'>contact us</a> as soon as possible so that we can fix this exception",
     "openClient": "Open Client",
     "afterOpenClientTips": "After opening the wallpaper client, you need to refresh the page to get the data.",
