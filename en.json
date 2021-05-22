@@ -81,7 +81,8 @@
     "ok": "OK",
     "viewNow": "View now",
     "contact": "Contact",
-    "feedback": "Feedback"
+    "feedback": "Feedback",
+    "loading": "Loading..."
   },
   "findpassword": {
     "msg": "The email is sent successfully, please go to the mailbox to change the password."

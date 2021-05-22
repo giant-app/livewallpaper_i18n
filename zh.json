@@ -81,7 +81,8 @@
     "ok": "确定",
     "viewNow": "立即查看",
     "contact": "联系我们",
-    "feedback": "意见反馈"
+    "feedback": "意见反馈",
+    "loading": "加载中..."
   },
   "findpassword": {
     "msg": "邮件发送成功，请去邮箱修改密码。"
