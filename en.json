@@ -168,7 +168,7 @@
   "dashboard": {
     "common": {
       "draft": "Draft",
-      "wallpaperCopyright": "Type",
+      "wallpaperCopyright": "Copyright",
       "wallpaperCopyrightOptionSelf": "Self-made",
       "wallpaperCopyrightOptionRefer": "Referenced"
     },
@@ -200,7 +200,6 @@
     },
     "wallpapers": {
       "editor": {
-        "copyright": "Copyright",
         "copyrightDescription": "Respect the copyright, please reprint the legal video, and mark the source address."
       }
     },

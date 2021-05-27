@@ -168,7 +168,7 @@
   "dashboard": {
     "common": {
       "draft": "草稿",
-      "wallpaperCopyright": "类型",
+      "wallpaperCopyright": "版权",
       "wallpaperCopyrightOptionSelf": "自制",
       "wallpaperCopyrightOptionRefer": "转载"
     },
@@ -200,7 +200,6 @@
     },
     "wallpapers": {
       "editor": {
-        "copyright": "版权",
         "copyrightDescription": "尊重版权，请转载合法作品，并标注来源地址。"
       }
     },

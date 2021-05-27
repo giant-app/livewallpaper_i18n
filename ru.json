@@ -168,7 +168,7 @@
   "dashboard": {
     "common": {
       "draft": "Проект",
-      "wallpaperCopyright": "Тип",
+      "wallpaperCopyright": "Авторские права",
       "wallpaperCopyrightOptionSelf": "Ручной работы",
       "wallpaperCopyrightOptionRefer": "Ссылка"
     },
@@ -200,7 +200,6 @@
     },
     "wallpapers": {
       "editor": {
-        "copyright": "Авторские права",
         "copyrightDescription": "Соблюдайте авторские права, перепечатайте юридическое видео и отметьте адрес источника."
       }
     },
