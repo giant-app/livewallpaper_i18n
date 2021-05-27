@@ -17,7 +17,8 @@
       "max": "Максимальная длина: {max}",
       "uploadSizeLimit": "Текущий максимальный файл загрузки не может превышать {size}"
     },
-    "wpTypes": {
+    "category": "Категория",
+    "wpCategories": {
       "character": "Персонаж",
       "game": "Игра",
       "creativity": "Творческий подход",
@@ -167,9 +168,9 @@
   "dashboard": {
     "common": {
       "draft": "Проект",
-      "wallpaperType": "Тип",
-      "wallpaperTypeOptionSelf": "Ручной работы",
-      "wallpaperTypeOptionRefer": "Ссылка"
+      "wallpaperCopyright": "Тип",
+      "wallpaperCopyrightOptionSelf": "Ручной работы",
+      "wallpaperCopyrightOptionRefer": "Ссылка"
     },
     "menus": {
       "content": "Содержимое",
@@ -199,7 +200,8 @@
     },
     "wallpapers": {
       "editor": {
-        "copyrightDescription": "Уважайте авторское право, ссылайтесь на юридические произведения и отмечайте адрес источника."
+        "copyright": "Авторские права",
+        "copyrightDescription": "Соблюдайте авторские права, перепечатайте юридическое видео и отметьте адрес источника."
       }
     },
     "client": {

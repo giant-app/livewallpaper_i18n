@@ -17,7 +17,8 @@
       "max": "The maximum length is {max}",
       "uploadSizeLimit": "The current maximum upload file cannot exceed {size}"
     },
-    "wpTypes": {
+    "category": "Category",
+    "wpCategories": {
       "character": "Character",
       "game": "Game",
       "creativity": "Creativity",
@@ -167,9 +168,9 @@
   "dashboard": {
     "common": {
       "draft": "Draft",
-      "wallpaperType": "Type",
-      "wallpaperTypeOptionSelf": "Self-made",
-      "wallpaperTypeOptionRefer": "Referenced"
+      "wallpaperCopyright": "Type",
+      "wallpaperCopyrightOptionSelf": "Self-made",
+      "wallpaperCopyrightOptionRefer": "Referenced"
     },
     "menus": {
       "content": "Content",
@@ -199,7 +200,8 @@
     },
     "wallpapers": {
       "editor": {
-        "copyrightDescription": "Respect copyright, please reference legal works and mark the source address."
+        "copyright": "Copyright",
+        "copyrightDescription": "Respect the copyright, please reprint the legal video, and mark the source address."
       }
     },
     "client": {

@@ -17,7 +17,8 @@
       "max": "最大长度为{max}",
       "uploadSizeLimit": "当前最大上传文件不能超过{size}"
     },
-    "wpTypes": {
+    "category": "分类",
+    "wpCategories": {
       "character": "人物",
       "game": "游戏",
       "creativity": "创意",
@@ -167,9 +168,9 @@
   "dashboard": {
     "common": {
       "draft": "草稿",
-      "wallpaperType": "类型",
-      "wallpaperTypeOptionSelf": "自制",
-      "wallpaperTypeOptionRefer": "转载"
+      "wallpaperCopyright": "类型",
+      "wallpaperCopyrightOptionSelf": "自制",
+      "wallpaperCopyrightOptionRefer": "转载"
     },
     "menus": {
       "content": "内容管理",
@@ -199,6 +200,7 @@
     },
     "wallpapers": {
       "editor": {
+        "copyright": "版权",
         "copyrightDescription": "尊重版权，请转载合法作品，并标注来源地址。"
       }
     },
