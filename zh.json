@@ -17,6 +17,20 @@
       "max": "最大长度为{max}",
       "uploadSizeLimit": "当前最大上传文件不能超过{size}"
     },
+    "wpTypes": {
+      "character": "人物",
+      "game": "游戏",
+      "creativity": "创意",
+      "anime": "动漫",
+      "film_television": "影视",
+      "science_fiction": "科幻",
+      "relax": "放松",
+      "pixel": "像素",
+      "animal": "动物",
+      "natural": "自然",
+      "sport": "运动",
+      "vehicle": "载具"
+    },
     "appName": "巨应壁纸",
     "studioName": "巨应工作室",
     "poweredBy": "免责声明本站所有资源都由用户上传",

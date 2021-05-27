@@ -17,6 +17,20 @@
       "max": "The maximum length is {max}",
       "uploadSizeLimit": "The current maximum upload file cannot exceed {size}"
     },
+    "wpTypes": {
+      "character": "Character",
+      "game": "Game",
+      "creativity": "Creativity",
+      "anime": "Anime",
+      "film_television": "Film & Television",
+      "science_fiction": "Science fiction",
+      "relax": "Relax",
+      "pixel": "Pixel",
+      "animal": "Animal",
+      "natural": "Natural",
+      "sport": "Sport",
+      "vehicle": "Vehicle"
+    },
     "appName": "Livewallpaper",
     "studioName": "Giantapp Studio",
     "poweredBy": "Disclaimer All resources on this site are uploaded by users",
