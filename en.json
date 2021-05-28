@@ -30,7 +30,8 @@
       "animal": "Animal",
       "natural": "Natural",
       "sport": "Sport",
-      "vehicle": "Vehicle"
+      "vehicle": "Vehicle",
+      "other": "Other"
     },
     "appName": "Livewallpaper",
     "studioName": "Giantapp Studio",

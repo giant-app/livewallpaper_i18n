@@ -30,7 +30,8 @@
       "animal": "Животное",
       "natural": "Естественный",
       "sport": "Спорт",
-      "vehicle": "Транспортное средство"
+      "vehicle": "Транспортное средство",
+      "other": "Другой"
     },
     "appName": "LiveWallpaper",
     "studioName": "Giantapp Studio",
