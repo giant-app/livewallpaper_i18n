@@ -230,9 +230,10 @@
       },
       "editor": {
         "uploadTips": "Drag the file here or click upload",
+        "uploadMessage": "Tip: All users can access the wallpaper. Please do not upload any illegal or private wallpapers. Please do not upload duplicate or low-quality wallpapers, they may be deleted by the administrator.",
         "uploadCancelled": "Upload cancelled",
         "title": "Title",
-        "titlePlaceholder": "Title cannot be empty",
+        "titlePlaceholder": "Please take a meaningful title",
         "description": "Description",
         "descriptionPlaceholder": "Describe your wallpaper (optional)",
         "original": "An original wallpaper",
