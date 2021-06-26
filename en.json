@@ -246,6 +246,7 @@
   },
   "client": {
     "exit": "Exit",
-    "started": "An instance of the client has been started, please check the bottom right of the desktop."
+    "started": "An instance of the client has been started, please check the bottom right of the desktop.",
+    "offline": "Offline mode"
   }
 }
