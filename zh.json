@@ -63,6 +63,7 @@
     "downloadClient": "下载客户端",
     "upgradeClient": "更新客户端",
     "wallpaper": "壁纸",
+    "wallpaperGroup": "壁纸分组",
     "cover": "封面",
     "home": "首页",
     "multiLanguage": "多语言",
@@ -178,6 +179,7 @@
     "menus": {
       "content": "内容管理",
       "createWallpaper": "创建壁纸",
+      "createGroup": "创建分组",
       "wallpapers": "稿件管理",
       "account": "账户",
       "profile": "个人信息",

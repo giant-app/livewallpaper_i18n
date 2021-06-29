@@ -63,6 +63,7 @@
     "downloadClient": "Скачать клиент",
     "upgradeClient": "Обновить клиент",
     "wallpaper": "Обои",
+    "wallpaperGroup": "Группировка обоев",
     "cover": "Обложка",
     "home": "Домашняя",
     "multiLanguage": "Несколько языков",
@@ -177,7 +178,8 @@
     },
     "menus": {
       "content": "Содержимое",
-      "createWallpaper": "Создать",
+      "createWallpaper": "Создать обои",
+      "createGroup": "Создать группу",
       "wallpapers": "Ваши обои",
       "account": "Учйтная запись",
       "profile": "Профиль",

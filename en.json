@@ -63,6 +63,7 @@
     "downloadClient": "Download Client",
     "upgradeClient": "Upgrade client",
     "wallpaper": "Wallpaper",
+    "wallpaperGroup": "Wallpaper group",
     "cover": "Cover",
     "home": "Home",
     "multiLanguage": "Multi-language",
@@ -177,7 +178,8 @@
     },
     "menus": {
       "content": "Content",
-      "createWallpaper": "Create",
+      "createWallpaper": "Create Wallpaper",
+      "createGroup": "Create Group",
       "wallpapers": "Your wallpapers",
       "account": "Account",
       "profile": "Profile",
