@@ -101,7 +101,8 @@
     "viewNow": "View now",
     "contact": "Contact",
     "feedback": "Feedback",
-    "loading": "Loading..."
+    "loading": "Loading...",
+    "add": "Add"
   },
   "findpassword": {
     "msg": "The email is sent successfully, please go to the mailbox to change the password."
@@ -242,7 +243,9 @@
         "originalTips": "If you are not the author of this wallpaper, please do not check this option",
         "tag": "Tag",
         "tagPlaceholder": "Add tags to wallpapers to facilitate local classification. (e.g. Games, Landscapes, Characters, WOW, LOL, etc)",
-        "leaveTips": "Leave without saving ?"
+        "leaveTips": "Leave without saving ?",
+        "groupItems": "Grouping items",
+        "switchingInterval": "Switching interval"
       }
     }
   },

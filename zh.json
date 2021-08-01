@@ -101,7 +101,8 @@
     "viewNow": "立即查看",
     "contact": "联系我们",
     "feedback": "意见反馈",
-    "loading": "加载中..."
+    "loading": "加载中...",
+    "add": "添加"
   },
   "findpassword": {
     "msg": "邮件发送成功，请去邮箱修改密码。"
@@ -242,7 +243,9 @@
         "originalTips": "如果这不是你自己原创的壁纸，请不要勾选此选项",
         "tag": "标签",
         "tagPlaceholder": "给壁纸添加标签，方便本地归类。（例如：游戏，风景，人物，魔兽世界，英雄联盟等）",
-        "leaveTips": "尚未保持，确认离开？"
+        "leaveTips": "尚未保持，确认离开？",
+        "groupItems": "分组项",
+        "switchingInterval": "切换间隔"
       }
     }
   },
