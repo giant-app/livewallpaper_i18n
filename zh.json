@@ -245,7 +245,7 @@
         "tagPlaceholder": "给壁纸添加标签，方便本地归类。（例如：游戏，风景，人物，魔兽世界，英雄联盟等）",
         "leaveTips": "尚未保持，确认离开？",
         "groupItems": "分组项",
-        "switchingInterval": "切换间隔"
+        "switchingInterval": "切换间隔（小时：分钟）"
       }
     }
   },

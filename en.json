@@ -245,7 +245,7 @@
         "tagPlaceholder": "Add tags to wallpapers to facilitate local classification. (e.g. Games, Landscapes, Characters, WOW, LOL, etc)",
         "leaveTips": "Leave without saving ?",
         "groupItems": "Grouping items",
-        "switchingInterval": "Switching interval"
+        "switchingInterval": "Switching interval (Hours: minutes)"
       }
     }
   },
