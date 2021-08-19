@@ -19,6 +19,7 @@
     },
     "category": "分类",
     "wpCategories": {
+      "human": "人",
       "character": "人物",
       "game": "游戏",
       "creativity": "创意",

@@ -19,6 +19,7 @@
     },
     "category": "Категория",
     "wpCategories": {
+      "human": "люди",
       "character": "Персонаж",
       "game": "Игра",
       "creativity": "Творческий подход",

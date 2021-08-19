@@ -19,6 +19,7 @@
     },
     "category": "Category",
     "wpCategories": {
+      "human": "Human",
       "character": "Character",
       "game": "Game",
       "creativity": "Creativity",
