@@ -236,7 +236,7 @@
       },
       "editor": {
         "uploadTips": "Drag the file here or click upload",
-        "uploadMessage": "Tip: All users can access the wallpaper. Please do not upload any illegal or private wallpapers. Please do not upload duplicate or low-quality wallpapers, they may be deleted by the administrator.",
+        "uploadMessage": "Tips: All users can access this wallpaper. Please do not upload wallpapers that are illegal, pornographic, violent, or sexually suggestive, or wallpapers that contain personal privacy. Please do not upload duplicate or low-quality wallpapers, they may be deleted by the administrator.",
         "uploadCancelled": "Upload cancelled",
         "title": "Title",
         "titlePlaceholder": "Please take a meaningful title",
