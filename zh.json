@@ -105,7 +105,8 @@
     "contact": "联系我们",
     "feedback": "意见反馈",
     "loading": "加载中...",
-    "add": "添加"
+    "add": "添加",
+    "search": "搜索"
   },
   "findpassword": {
     "msg": "邮件发送成功，请去邮箱修改密码。"

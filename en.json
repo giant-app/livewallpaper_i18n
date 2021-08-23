@@ -105,7 +105,8 @@
     "contact": "Contact",
     "feedback": "Feedback",
     "loading": "Loading...",
-    "add": "Add"
+    "add": "Add",
+    "search": "Search"
   },
   "findpassword": {
     "msg": "The email is sent successfully, please go to the mailbox to change the password."
