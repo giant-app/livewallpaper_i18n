@@ -161,7 +161,7 @@
     "register": "注册",
     "haveAccount": "已有账户",
     "regSuccess": "注册成功",
-    "viewEmail": "请前往邮箱激活"
+    "viewEmail": "请前往邮箱激活，注意是否在垃圾邮件中"
   },
   "wallpapers": {
     "title": "壁纸社区",
