@@ -223,6 +223,7 @@
         "appMaximizedEffectAllScreen": "Pause or stop the wallpaper of all screens when the window is maximized",
         "audioScreen": "Audio source",
         "thirdpartToolsDir": "Third-party tools directory",
+        "configDir": "Configuration directory (read only)",
         "thirdpartToolsDirTips": "e.g. C:\\LiveWallpaperTools\\",
         "externalPlayerFolder": "Wallpaper renderer directory",
         "externalPlayerFolderTips": "e.g. C:\\LiveWallpaperPlayers\\",

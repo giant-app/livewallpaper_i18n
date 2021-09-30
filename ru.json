@@ -223,6 +223,7 @@
         "appMaximizedEffectAllScreen": "Приостановить или остановить обои на всех экранах, когда запущено полноэкранное окно",
         "audioScreen": "Исходный звук",
         "thirdpartToolsDir": "Каталог сторонних инструментов",
+        "configDir": "Каталог конфигурации (только чтение)",
         "thirdpartToolsDirTips": "Например: C:\\LiveWallpaperTools\\",
         "externalPlayerFolder": "Каталог средств визуализации обоев",
         "externalPlayerFolderTips": "Например: C:\\LiveWallpaperPlayers\\",

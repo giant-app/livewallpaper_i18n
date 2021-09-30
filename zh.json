@@ -223,6 +223,7 @@
         "appMaximizedEffectAllScreen": "当窗口最大化时暂停或停止所有屏幕的壁纸",
         "audioScreen": "音源",
         "thirdpartToolsDir": "第三方工具目录",
+        "configDir": "配置目录（只读）",
         "thirdpartToolsDirTips": "例如 C:\\LiveWallpaperTools\\",
         "externalPlayerFolder": "渲染器目录",
         "externalPlayerFolderTips": "例如 C:\\LiveWallpaperPlayers\\",
