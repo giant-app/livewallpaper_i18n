@@ -79,6 +79,7 @@
     "create": "Create",
     "noClient": "It seems that the Livewallpaper client does not start",
     "needUpgradeClient": "Client V{version} does not seem to be the latest version, please update to the latest version V{expectedVersion}",
+    "clientVersion": "Client V{version}",
     "feedbackTips": "It seems that there is an error in the program, please <a href='https://giantapp.cn/post/other/contact' target='_blank'>contact us</a> as soon as possible so that we can fix this exception",
     "openClient": "Open Client",
     "afterOpenClientTips": "After opening the wallpaper client, you need to refresh the page to get the data.",
@@ -108,7 +109,10 @@
     "add": "Add",
     "search": "Search",
     "about": "About",
-    "volume": "Volume"
+    "volume": "Volume",
+    "releaseNotes": "Release Notes",
+    "thumbUp": "Give a thumb up",
+    "donate": "Donate"
   },
   "findpassword": {
     "msg": "The email is sent successfully, please go to the mailbox to change the password."
