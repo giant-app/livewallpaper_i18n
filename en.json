@@ -112,7 +112,8 @@
     "volume": "Volume",
     "releaseNotes": "Release Notes",
     "thumbUp": "Give a thumb up",
-    "donate": "Donate"
+    "donate": "Donate",
+    "installWebview2Tips": "This function requires Microsoft's latest webview2 runtime support. Please reopen this window after manual installation"
   },
   "findpassword": {
     "msg": "The email is sent successfully, please go to the mailbox to change the password."
