@@ -113,7 +113,9 @@
     "releaseNotes": "Release Notes",
     "thumbUp": "Give a thumb up",
     "donate": "Donate",
-    "installWebview2Tips": "This function requires Microsoft's latest webview2 runtime support. Please reopen this window after manual installation"
+    "installWebview2Tips": "This function requires Microsoft's latest webview2 runtime support. Please reopen this window after manual installation",
+    "reviewTitle": "Is this version okay?",
+    "reviewContent": "You seem to have been using LiveWallpaper for a while, is there anything you want to tell us?"
   },
   "findpassword": {
     "msg": "The email is sent successfully, please go to the mailbox to change the password."
