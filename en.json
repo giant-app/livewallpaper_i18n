@@ -178,6 +178,9 @@
       "keywords": "LiveWallpaper community, wallpaper upload, wallpaper download, wallpaper collection, live wallpaper"
     },
     "info": {
+      "oneClickDownload": "One-click download",
+      "oneClickDownloadToGroup": "One-click download and add to <b>{group}</b>",
+      "downloadViaBrowser": "Download via browser",
       "downloadWP": "Download wallpaper",
       "downloaded": "Downloaded",
       "gotoLocalWallpaper": "Go to local wallpaper to view",

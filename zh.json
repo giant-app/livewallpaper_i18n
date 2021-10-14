@@ -178,6 +178,9 @@
       "keywords": "巨应壁纸社区，壁纸上传，壁纸下载，壁纸收藏，动态壁纸"
     },
     "info": {
+      "oneClickDownload": "一键下载",
+      "oneClickDownloadToGroup": "一键下载，并添加到 <b>{group}</b>",
+      "downloadViaBrowser": "通过浏览器下载",
       "downloadWP": "下载壁纸",
       "downloaded": "已下载",
       "gotoLocalWallpaper": "去本地壁纸查看",
