@@ -73,6 +73,7 @@
     "downloadClient": "下载客户端",
     "upgradeClient": "更新客户端",
     "wallpaper": "壁纸",
+    "localWallpaper": "本地壁纸",
     "wallpaperGroup": "壁纸分组",
     "group": "分组",
     "cover": "封面",
@@ -260,6 +261,8 @@
       "editor": {
         "uploadTips": "拖入文件或者点击上传",
         "uploadMessage": "提示：所有用户都能访问该壁纸，请不要上传违法、色情、暴力、性暗示等壁纸或者包含个人隐私的壁纸。请不要上传重复或低质量壁纸，有可能会被管理员删除。",
+        "loadlUploadTips": "拖入文件或者手动选择文件",
+        "localUploadMessage": "提示：这里的壁纸仅在你本机使用，不会上传到服务器。",
         "uploadCancelled": "上传已取消",
         "title": "标题",
         "titlePlaceholder": "请取一个有意义的标题",
