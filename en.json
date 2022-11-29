@@ -196,7 +196,8 @@
       "downloadWP": "Download wallpaper",
       "downloaded": "Downloaded",
       "gotoLocalWallpaper": "Go to local wallpaper to view",
-      "selfmadeTips": "Reprinting is prohibited without the author's authorization"
+      "selfmadeTips": "Reprinting is prohibited without the author's authorization",
+      "other": "Author's other wallpapers"
     }
   },
   "dashboard": {
