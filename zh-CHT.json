@@ -125,6 +125,7 @@
     "releaseNotes": "發行說明",
     "thumbUp": "好評鼓勵",
     "donate": "捐贈",
+    "donate_info": "您連續下載次數過多，請稍後重試。當前服務器費用過高，請幫助<a href='https://afdian.net/a/giantapp' target='_blank'>捐贈</a>我們，服務器壓力降低後會逐步解除下載限制，感謝理解。",
     "installWebview2Tips": "本功能需要微軟最新的webview2運行時支持，請手動安裝後，重新打開本窗口",
     "reviewTitle": "這個版本還行嗎？",
     "reviewContent": "你似乎已經用了一段時間巨應壁紙了，有什麼想告訴開發者的嗎？"
