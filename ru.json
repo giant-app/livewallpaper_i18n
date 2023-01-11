@@ -206,7 +206,8 @@
       "draft": "Проект",
       "wallpaperCopyright": "Авторские права",
       "wallpaperCopyrightOptionSelf": "Ручной работы",
-      "wallpaperCopyrightOptionRefer": "Ссылка"
+      "wallpaperCopyrightOptionRefer": "Ссылка",
+      "pending": "На рассмотрении (в течение 24 часов)"
     },
     "menus": {
       "content": "Содержимое",

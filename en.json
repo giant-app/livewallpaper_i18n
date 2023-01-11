@@ -206,7 +206,8 @@
       "draft": "Draft",
       "wallpaperCopyright": "Copyright",
       "wallpaperCopyrightOptionSelf": "Self-made",
-      "wallpaperCopyrightOptionRefer": "Referenced"
+      "wallpaperCopyrightOptionRefer": "Referenced",
+      "pending": "Under review, (within 24 hours)"
     },
     "menus": {
       "content": "Content",

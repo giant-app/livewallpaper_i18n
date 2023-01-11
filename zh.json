@@ -206,7 +206,8 @@
       "draft": "草稿",
       "wallpaperCopyright": "版权",
       "wallpaperCopyrightOptionSelf": "自制",
-      "wallpaperCopyrightOptionRefer": "转载"
+      "wallpaperCopyrightOptionRefer": "转载",
+      "pending": "审核中，（24小时内）"
     },
     "menus": {
       "content": "内容管理",

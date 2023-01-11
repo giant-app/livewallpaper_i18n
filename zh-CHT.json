@@ -206,7 +206,8 @@
       "draft": "草稿",
       "wallpaperCopyright": "版權",
       "wallpaperCopyrightOptionSelf": "自製",
-      "wallpaperCopyrightOptionRefer": "轉載"
+      "wallpaperCopyrightOptionRefer": "轉載",
+      "pending": "審核中，（24小時內）"
     },
     "menus": {
       "content": "內容管理",
