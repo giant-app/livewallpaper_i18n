@@ -125,7 +125,7 @@
     "releaseNotes": "发行说明",
     "thumbUp": "好评鼓励",
     "donate": "捐赠",
-    "donate_info": "您连续下载次数过多，请稍后重试。当前服务器费用过高，请帮助<a href='https://afdian.net/a/giantapp' target='_blank'>捐赠</a>我们，服务器压力降低后会逐步解除下载限制，感谢理解。",
+    "donate_info": "已触发每日免费下载限制，为什么会限制？请参考<a href='https://afdian.net/a/giantapp' target='_blank'>Pro版本</a>，感谢理解",
     "installWebview2Tips": "本功能需要微软最新的webview2运行时支持，请手动安装后，重新打开本窗口",
     "reviewTitle": "这个版本还行吗？",
     "reviewContent": "你似乎已经用了一段时间巨应壁纸了，有什么想告诉开发者的吗？"
@@ -154,8 +154,8 @@
   "local": {
     "title": "本地壁纸",
     "meta": {
-      "description": "",
-      "keywords": ""
+      "description": "Live Wallpaper",
+      "keywords": "Live Wallpaper by Giantapp Studio"
     },
     "setupPlayerTip": "首次运行{type}，需要安装渲染器",
     "customUrlTip": "自定义下载地址",
@@ -219,7 +219,8 @@
       "setpwd": "修改密码",
       "client": "客户端",
       "localSettings": "本地设置",
-      "upload": "投稿"
+      "upload": "投稿",
+      "pro": "会员"
     },
     "account": {
       "profile": {
@@ -234,6 +235,9 @@
         "genderOptionOther": "其他",
         "avatarUrl": "头像地址",
         "bindEmailSent": "邮件已发送，注意查收"
+      },
+      "pro": {
+        "activation_code": "激活码"
       }
     },
     "wallpapers": {

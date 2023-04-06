@@ -125,7 +125,7 @@
     "releaseNotes": "Release Notes",
     "thumbUp": "Give a thumb up",
     "donate": "Donate",
-    "donate_info": "You have downloaded too many times in a row, please try again later. The current server fee is too high, please help us by <a href='https://afdian.net/a/giantapp' target='_blank'>donate</a>, the download limit will be gradually lifted after the server pressure is reduced, thank you for your understanding .",
+    "donate_info": "You have exceeded the daily download limit for free downloads. Please consider the Pro version through <a href='https://afdian.net/a/giantapp' target='_blank'>this link</a>. Thank you for your understanding.",
     "installWebview2Tips": "This function requires Microsoft's latest webview2 runtime support. Please reopen this window after manual installation",
     "reviewTitle": "Is this version okay?",
     "reviewContent": "You seem to have been using LiveWallpaper for a while, is there anything you want to tell us?"
@@ -154,8 +154,8 @@
   "local": {
     "title": "Local Wallpaper",
     "meta": {
-      "description": "",
-      "keywords": ""
+      "description": "Live Wallpaper",
+      "keywords": "Live Wallpaper by Giantapp Studio"
     },
     "setupPlayerTip": "To run {type} for the first time, a renderer needs to be installed",
     "customUrlTip": "Custom download URL",
@@ -219,7 +219,8 @@
       "setpwd": "Change Password",
       "client": "Client",
       "localSettings": "Setting",
-      "upload": "Contribution"
+      "upload": "Contribution",
+      "pro": "Pro"
     },
     "account": {
       "profile": {
@@ -234,6 +235,9 @@
         "genderOptionOther": "Other",
         "avatarUrl": "Avatar url",
         "bindEmailSent": "The email has been sent, please check it"
+      },
+      "pro": {
+        "activation_code": "Activation code"
       }
     },
     "wallpapers": {
