@@ -237,7 +237,10 @@
         "bindEmailSent": "郵件已發送，注意查收"
       },
       "pro": {
-        "activation_code": "激活码"
+        "activation_code": "激活码",
+        "feature": "開通權益",
+        "buy": "購買",
+        "featureContent": "去除谷歌廣告，解除下載限制"
       }
     },
     "wallpapers": {

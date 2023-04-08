@@ -237,7 +237,10 @@
         "bindEmailSent": "The email has been sent, please check it"
       },
       "pro": {
-        "activation_code": "Activation code"
+        "activation_code": "Activation code",
+        "buy": "Buy",
+        "feature": "Open rights",
+        "featureContent": "Remove Google ads, remove download restrictions"
       }
     },
     "wallpapers": {

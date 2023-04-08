@@ -239,7 +239,8 @@
       "pro": {
         "activation_code": "激活码",
         "feature": "开通权益",
-        "featureContent": "去除谷歌广告，解除下载限制"
+        "featureContent": "去除谷歌广告，解除下载限制",
+        "buy": "购买"
       }
     },
     "wallpapers": {
