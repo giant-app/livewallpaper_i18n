@@ -240,7 +240,8 @@
         "activation_code": "Код активации",
         "feature": "Открытые права",
         "buy": "Купить",
-        "featureContent": "Удалить рекламу Google, снять ограничения на загрузку"
+        "featureContent": "Удалить рекламу Google, снять ограничения на загрузку",
+        "iDonatedBefore": "Я пожертвовал раньше"
       }
     },
     "wallpapers": {

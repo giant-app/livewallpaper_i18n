@@ -240,7 +240,8 @@
         "activation_code": "激活码",
         "feature": "開通權益",
         "buy": "購買",
-        "featureContent": "去除谷歌廣告，解除下載限制"
+        "featureContent": "去除谷歌廣告，解除下載限制",
+        "iDonatedBefore": "我以前捐贈過"
       }
     },
     "wallpapers": {

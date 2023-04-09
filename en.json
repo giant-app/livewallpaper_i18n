@@ -240,7 +240,8 @@
         "activation_code": "Activation code",
         "buy": "Buy",
         "feature": "Open rights",
-        "featureContent": "Remove Google ads, remove download restrictions"
+        "featureContent": "Remove Google ads, remove download restrictions",
+        "iDonatedBefore": "I have donated before"
       }
     },
     "wallpapers": {
