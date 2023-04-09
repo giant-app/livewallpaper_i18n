@@ -49,7 +49,7 @@
     "findpassword": "Забыл пароль",
     "wechatLogin": "Вход через WeChat",
     "logout": "Выйти",
-    "copyright": "@2018-2022 - {studio}",
+    "copyright": "@2018-2023 - {studio}",
     "videoWP": "Видео-обои",
     "imageWP": "Статичные обои",
     "htmlWP": "Веб-обои",
@@ -241,7 +241,9 @@
         "feature": "Открытые права",
         "buy": "Купить",
         "featureContent": "Удалить рекламу Google, снять ограничения на загрузку",
-        "iDonatedBefore": "Я пожертвовал раньше"
+        "iDonatedBefore": "Я пожертвовал раньше",
+        "activate": "Активировать",
+        "activateHistory": "Активировать историю"
       }
     },
     "wallpapers": {

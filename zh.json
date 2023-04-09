@@ -49,7 +49,7 @@
     "findpassword": "忘记密码",
     "wechatLogin": "微信登陆",
     "logout": "注销",
-    "copyright": "@2018-2022 {studio}",
+    "copyright": "@2018-2023 {studio}",
     "videoWP": "视频壁纸",
     "imageWP": "图片壁纸",
     "htmlWP": "网页壁纸",
@@ -241,7 +241,9 @@
         "feature": "开通权益",
         "featureContent": "去除谷歌广告，解除下载限制",
         "buy": "购买",
-        "iDonatedBefore": "我以前捐赠过"
+        "iDonatedBefore": "我以前捐赠过",
+        "activate": "激活",
+        "activateHistory": "激活历史"
       }
     },
     "wallpapers": {
