@@ -198,7 +198,8 @@
       "downloaded": "Downloaded",
       "gotoLocalWallpaper": "Go to local wallpaper to view",
       "selfmadeTips": "Reprinting is prohibited without the author's authorization",
-      "other": "Author's other wallpapers"
+      "other": "Author's other wallpapers",
+      "report": "Report"
     }
   },
   "dashboard": {
@@ -242,8 +243,8 @@
         "feature": "Open rights",
         "featureContent": "Remove Google ads, remove download restrictions",
         "iDonatedBefore": "I have donated before",
-        "activate":"Activate",
-        "activateHistory":"Activate history"
+        "activate": "Activate",
+        "activateHistory": "Activate history"
       }
     },
     "wallpapers": {
