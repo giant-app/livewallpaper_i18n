@@ -244,7 +244,10 @@
         "buy": "购买",
         "iDonatedBefore": "我以前捐赠过",
         "activate": "激活",
-        "activateHistory": "激活历史"
+        "activateHistory": "激活历史",
+        "msg_codeIsInvalid": "激活码无效",
+        "msg_codeIsUsed": "激活码已经被使用",
+        "msg_codeSuccessful": "激活成功"
       }
     },
     "wallpapers": {

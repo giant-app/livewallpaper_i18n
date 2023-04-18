@@ -244,7 +244,10 @@
         "featureContent": "Remove Google ads, remove download restrictions",
         "iDonatedBefore": "I have donated before",
         "activate": "Activate",
-        "activateHistory": "Activate history"
+        "activateHistory": "Activate history",
+        "msg_codeIsUsed": "The activation code has already been used",
+        "msg_codeIsInvalid": "Invalid activation code",
+        "msg_codeSuccessful": "Activation successful"
       }
     },
     "wallpapers": {

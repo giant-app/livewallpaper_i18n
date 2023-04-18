@@ -244,7 +244,10 @@
         "featureContent": "Удалить рекламу Google, снять ограничения на загрузку",
         "iDonatedBefore": "Я пожертвовал раньше",
         "activate": "Активировать",
-        "activateHistory": "Активировать историю"
+        "activateHistory": "Активировать историю",
+        "msg_codeIsInvalid": "Неверный код активации",
+        "msg_codeIsUsed": "Код активации уже использован",
+        "msg_codeSuccessful": "Активация прошла успешно"
       }
     },
     "wallpapers": {
