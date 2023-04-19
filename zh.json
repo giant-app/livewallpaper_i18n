@@ -36,6 +36,7 @@
       "vehicle": "载具",
       "other": "其他"
     },
+    "pro_member_only": "Pro会员专用",
     "optional": "选填",
     "appName": "巨应壁纸",
     "reset": "重置",
@@ -191,6 +192,9 @@
       "keywords": "巨应壁纸社区，壁纸上传，壁纸下载，壁纸收藏，动态壁纸"
     },
     "info": {
+      "favorite": "收藏",
+      "already_favorited": "已收藏",
+      "unfavorite": "取消收藏",
       "oneClickDownload": "一键下载",
       "oneClickDownloadToGroup": "一键下载，并添加到 <b>{group}</b>",
       "downloadViaBrowser": "通过浏览器下载",
@@ -199,7 +203,7 @@
       "gotoLocalWallpaper": "去本地壁纸查看",
       "selfmadeTips": "未经作者授权，禁止转载",
       "other": "上传者的其他壁紙",
-      "report": "举报"
+      "report": "此为网友上传，切勿商用，侵权违法举报"
     }
   },
   "dashboard": {

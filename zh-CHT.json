@@ -36,6 +36,7 @@
       "vehicle": "載具",
       "other": "其他"
     },
+    "pro_member_only": "Pro會員專用",
     "optional": "選填",
     "appName": "巨應壁紙",
     "reset": "重置",
@@ -191,6 +192,9 @@
       "keywords": "巨應壁紙社區，壁紙上傳，壁紙下載，壁紙收藏，動態壁紙"
     },
     "info": {
+      "favorite": "收藏",
+      "already_favorited": "已收藏",
+      "unfavorite": "取消收藏",
       "oneClickDownload": "一鍵下載",
       "oneClickDownloadToGroup": "一鍵下載，並添加到 <b>{group}</b>",
       "downloadViaBrowser": "通過瀏覽器下載",
@@ -199,7 +203,7 @@
       "gotoLocalWallpaper": "去本地壁紙查看",
       "selfmadeTips": "未經作者授權，禁止轉載",
       "other": "上傳者的其他壁纸",
-      "report": "舉報"
+      "report": "此為網友上傳，切勿商用，侵權違法舉報"
     }
   },
   "dashboard": {

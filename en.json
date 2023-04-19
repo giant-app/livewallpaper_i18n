@@ -36,6 +36,7 @@
       "vehicle": "Vehicle",
       "other": "Other"
     },
+    "pro_member_only": "Pro members only",
     "optional": "Optional",
     "appName": "Livewallpaper",
     "reset": "Reset",
@@ -191,6 +192,9 @@
       "keywords": "LiveWallpaper community, wallpaper upload, wallpaper download, wallpaper collection, live wallpaper"
     },
     "info": {
+      "favorite": "Favorite",
+      "already_favorited": "Already favorited",
+      "unfavorite": "Unfavorite",
       "oneClickDownload": "One-click download",
       "oneClickDownloadToGroup": "One-click download and add to <b>{group}</b>",
       "downloadViaBrowser": "Download via browser",

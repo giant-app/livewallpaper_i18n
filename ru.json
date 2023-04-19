@@ -36,6 +36,7 @@
       "vehicle": "Транспортное средство",
       "other": "Другой"
     },
+    "pro_member_only": "Только для пользователей Pro",
     "optional": "По желанию",
     "appName": "LiveWallpaper",
     "reset": "Перезагрузить",
@@ -191,6 +192,9 @@
       "keywords": "Сообщество живых обоев, загрузка обоев, скачивание обоев, коллекция обоев, живые обои"
     },
     "info": {
+      "favorite": "Избранное",
+      "already_favorited": "Уже добавлено в избранное",
+      "unfavorite": "Убрать из избранного",
       "oneClickDownload": "Скачивание в один клик",
       "oneClickDownloadToGroup": "Скачивание в один клик и добавление в <b>{group}</b>",
       "downloadViaBrowser": "Скачать через браузер",
