@@ -251,7 +251,7 @@
         "activateHistory": "激活歷史",
         "msg_codeIsInvalid": "激活碼無效",
         "msg_codeIsUsed": "該激活碼已經用過了",
-        "msg_codeSuccessful": "激活成功"
+        "msg_codeSuccessful": "激活成功，按F5刷新頁面生效"
       }
     },
     "wallpapers": {
