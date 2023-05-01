@@ -251,7 +251,8 @@
         "activateHistory": "Activate history",
         "msg_codeIsUsed": "The activation code has already been used",
         "msg_codeIsInvalid": "Invalid activation code",
-        "msg_codeSuccessful": "Activation successful, press F5 to refresh the page to take effect"
+        "msg_codeSuccessful": "Activation successful, press F5 to refresh the page to take effect",
+        "tutorial":"Activation Tutorial"
       }
     },
     "wallpapers": {

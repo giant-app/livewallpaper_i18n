@@ -251,7 +251,8 @@
         "activateHistory": "激活历史",
         "msg_codeIsInvalid": "激活码无效",
         "msg_codeIsUsed": "激活码已经被使用",
-        "msg_codeSuccessful": "激活成功，按F5刷新页面生效"
+        "msg_codeSuccessful": "激活成功，按F5刷新页面生效",
+        "tutorial":"激活教程"
       }
     },
     "wallpapers": {
