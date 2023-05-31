@@ -243,7 +243,9 @@
       },
       "pro": {
         "activation_code": "Activation code",
-        "buy": "Buy",
+        "buy": "Buy activation code",
+        "activated":"Activated",
+        "history": "Query purchase records",
         "feature": "Open rights",
         "featureContent": "Remove Google ads, remove download restrictions",
         "iDonatedBefore": "I have donated before",

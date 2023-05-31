@@ -244,7 +244,9 @@
       "pro": {
         "activation_code": "激活码",
         "feature": "開通權益",
-        "buy": "購買",
+        "buy": "購買激活碼",
+        "activated": "已激活",
+        "history": "查詢購買記錄",
         "featureContent": "去除谷歌廣告，解除下載限制",
         "iDonatedBefore": "我以前捐贈過",
         "activate": "激活",
@@ -252,7 +254,7 @@
         "msg_codeIsInvalid": "激活碼無效",
         "msg_codeIsUsed": "該激活碼已經用過了",
         "msg_codeSuccessful": "激活成功，按F5刷新頁面生效",
-        "tutorial":"激活教程"
+        "tutorial": "激活教程"
       }
     },
     "wallpapers": {
