@@ -126,7 +126,7 @@
     "releaseNotes": "發行說明",
     "thumbUp": "好評鼓勵",
     "donate": "捐贈",
-    "donate_info": "由於服務器開銷日漸增大，社區不得不增加了下載限制，其他本地功能照常使用，僅社區有限制，請諒解。 <a href='/dashboard/account/pro'>開通Pro</a>後解除限制和谷歌廣告，低價Pro≈0.0082￥/天",
+    "donate_info": "請支持巨應社區，<a href='/dashboard/account/pro'>開通Pro版解除限制</a>，≈0.0082￥/天",
     "installWebview2Tips": "本功能需要微軟最新的webview2運行時支持，請手動安裝後，重新打開本窗口",
     "reviewTitle": "這個版本還行嗎？",
     "reviewContent": "你似乎已經用了一段時間巨應壁紙了，有什麼想告訴開發者的嗎？"
@@ -142,7 +142,7 @@
     },
     "intro": "一個精緻的Window10 (動)態壁紙開源軟件",
     "download1": "立刻安裝",
-    "download2": "手動安裝",
+    "download2": "微信公眾號",
     "whyUse1": "性價比",
     "whyUse1Tips": "客戶端免費，社區低價Pro",
     "whyUse2": "開源",

@@ -126,7 +126,7 @@
     "releaseNotes": "Release Notes",
     "thumbUp": "Give a thumb up",
     "donate": "Donate",
-    "donate_info": "Due to the increasing server costs, the community has to increase the download limit, and other features are used as usual, please understand. <a href='/dashboard/account/pro'>Open Pro</a> to remove restrictions and Google ads, low price Pro≈0.0082￥/day",
+    "donate_info": "Please support us, <a href='/dashboard/account/pro'>open the Pro version to remove restrictions</a>, ≈0.0082￥/day",
     "installWebview2Tips": "This function requires Microsoft's latest webview2 runtime support. Please reopen this window after manual installation",
     "reviewTitle": "Is this version okay?",
     "reviewContent": "You seem to have been using LiveWallpaper for a while, is there anything you want to tell us?"
@@ -142,7 +142,7 @@
     },
     "intro": "An exquisite Window10 dynamic (static) open source wallpaper app",
     "download1": "Install now",
-    "download2": "Manual installation",
+    "download2": "WeChat",
     "whyUse1": "Low Price",
     "whyUse1Tips": "Free client, community low-cost Pro",
     "whyUse2": "Open source",
