@@ -126,7 +126,7 @@
     "releaseNotes": "Notas de lançamento",
     "thumbUp": "Dar um polegar para cima",
     "donate": "Doar",
-    "donate_info": "Por favor, nos apoie, <a href='/dashboard/account/pro'>abra a versão Pro para remover as restrições</a>, ≈0.0082￥/dia",
+    "donate_info": "Por favor, nos apoie, <a href='/dashboard/account/pro'>abra a versão Pro para remover as restrições</a>",
     "installWebview2Tips": "Esta função requer o suporte à execução do webview2 mais recente da Microsoft. Por favor, reabra esta janela após a instalação manual",
     "reviewTitle": "Esta versão está ok?",
     "reviewContent": "Parece que você tem usado o LiveWallpaper por um tempo, há algo que você gostaria de nos dizer?"
