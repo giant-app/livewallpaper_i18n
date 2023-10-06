@@ -244,6 +244,8 @@
       },
       "pro": {
         "activation_code": "激活码",
+        "regTime": "激活日期",
+        "expireTime": "质保到期",
         "feature": "开通权益",
         "featureContent": "去除谷歌广告，解除下载限制",
         "buy": "购买激活码",

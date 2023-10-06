@@ -245,6 +245,8 @@
       "pro": {
         "activation_code": "激活码",
         "feature": "開通權益",
+        "regTime": "啟用日期",
+        "expireTime": "保固到期",
         "buy": "購買激活碼",
         "activated": "已激活",
         "history": "查詢購買記錄",

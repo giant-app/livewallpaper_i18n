@@ -245,6 +245,8 @@
       "pro": {
         "activation_code": "Activation code",
         "buy": "Buy activation code",
+        "regTime": "Activation date",
+        "expireTime": "Warranty expired",
         "activated": "Activated",
         "history": "Query purchase records",
         "feature": "Open rights",

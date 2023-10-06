@@ -245,6 +245,8 @@
       "pro": {
         "activation_code": "Código de Ativação",
         "buy": "Comprar código de ativação",
+        "regTime": "Data de ativação",
+        "expireTime": "Garantia expirada",
         "activated": "Ativado",
         "history": "Consultar registros de compra",
         "feature": "Direitos ativados",
