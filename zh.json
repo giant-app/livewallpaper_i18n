@@ -129,10 +129,11 @@
     "donate_info": "请支持巨应社区，<a href='/dashboard/account/pro'>点击开通Pro版</a>，低价会员永久使用",
     "installWebview2Tips": "本功能需要微软最新的webview2运行时支持，请手动安装后，重新打开本窗口",
     "reviewTitle": "这个版本还行吗？",
-    "reviewContent": "你似乎已经用了一段时间巨应壁纸了，有什么想告诉开发者的吗？"
+    "reviewContent": "你似乎已经用了一段时间巨应壁纸了，有什么想告诉开发者的吗？",
+    "newPassword": "新密码"
   },
   "findpassword": {
-    "msg": "邮件发送成功，请去邮箱修改密码。"
+    "msg": "邮件发送成功，请去邮箱修改密码。",
   },
   "index": {
     "title": "巨应壁纸",
@@ -315,5 +316,8 @@
     "exit": "退出",
     "started": "客户端已启动，请查看桌面右下角。",
     "offline": "离线模式"
+  },
+  "resetPwd": {
+    "title": "重置密码"
   }
 }

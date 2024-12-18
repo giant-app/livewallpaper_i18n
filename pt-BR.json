@@ -129,7 +129,8 @@
     "donate_info": "Por favor, apoie a comunidade Giantapp, <a href='/dashboard/account/pro'>clique para ativar a versão Pro</a>, membros de baixo custo podem usá-la permanentemente",
     "installWebview2Tips": "Esta função requer o suporte à execução do webview2 mais recente da Microsoft. Por favor, reabra esta janela após a instalação manual",
     "reviewTitle": "Esta versão está ok?",
-    "reviewContent": "Parece que você tem usado o LiveWallpaper por um tempo, há algo que você gostaria de nos dizer?"
+    "reviewContent": "Parece que você tem usado o LiveWallpaper por um tempo, há algo que você gostaria de nos dizer?",
+    "newPassword": "Nova senha"
   },
   "findpassword": {
     "msg": "O e-mail foi enviado com sucesso, por favor, vá à caixa de entrada para alterar a senha."
@@ -315,5 +316,8 @@
     "exit": "Sair",
     "started": "O cliente foi iniciado, por favor, verifique no canto inferior direito da área de trabalho.",
     "offline": "Modo offline"
+  },
+  "resetPwd": {
+    "title": "Redefinir senha"
   }
 }

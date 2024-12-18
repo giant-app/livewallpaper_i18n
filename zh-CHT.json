@@ -129,7 +129,8 @@
     "donate_info": "請支持巨應社區，<a href='/dashboard/account/pro'>點擊開通Pro版</a>，低價會員永久使用",
     "installWebview2Tips": "本功能需要微軟最新的webview2運行時支持，請手動安裝後，重新打開本窗口",
     "reviewTitle": "這個版本還行嗎？",
-    "reviewContent": "你似乎已經用了一段時間巨應壁紙了，有什麼想告訴開發者的嗎？"
+    "reviewContent": "你似乎已經用了一段時間巨應壁紙了，有什麼想告訴開發者的嗎？",
+    "newPassword": "新密碼"
   },
   "findpassword": {
     "msg": "郵件發送成功，請去郵箱修改密碼。"
@@ -315,5 +316,8 @@
     "exit": "退出",
     "started": "客戶端已啟動，請查看桌面右下角。",
     "offline": "離線模式"
+  },
+  "resetPwd": {
+    "title": "重置密碼"
   }
 }
