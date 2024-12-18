@@ -130,7 +130,8 @@
     "installWebview2Tips": "Esta função requer o suporte à execução do webview2 mais recente da Microsoft. Por favor, reabra esta janela após a instalação manual",
     "reviewTitle": "Esta versão está ok?",
     "reviewContent": "Parece que você tem usado o LiveWallpaper por um tempo, há algo que você gostaria de nos dizer?",
-    "newPassword": "Nova senha"
+    "newPassword": "Nova senha",
+    "backToLogin": "Voltar para login"
   },
   "findpassword": {
     "msg": "O e-mail foi enviado com sucesso, por favor, vá à caixa de entrada para alterar a senha."
@@ -318,6 +319,7 @@
     "offline": "Modo offline"
   },
   "resetPwd": {
-    "title": "Redefinir senha"
+    "title": "Redefinir senha",
+    "submit": "Enviar"
   }
 }

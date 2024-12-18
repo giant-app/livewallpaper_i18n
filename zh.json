@@ -130,10 +130,11 @@
     "installWebview2Tips": "本功能需要微软最新的webview2运行时支持，请手动安装后，重新打开本窗口",
     "reviewTitle": "这个版本还行吗？",
     "reviewContent": "你似乎已经用了一段时间巨应壁纸了，有什么想告诉开发者的吗？",
-    "newPassword": "新密码"
+    "newPassword": "新密码",
+    "backToLogin": "返回登录"
   },
   "findpassword": {
-    "msg": "邮件发送成功，请去邮箱修改密码。",
+    "msg": "邮件发送成功，请去邮箱修改密码。"
   },
   "index": {
     "title": "巨应壁纸",
@@ -318,6 +319,7 @@
     "offline": "离线模式"
   },
   "resetPwd": {
-    "title": "重置密码"
+    "title": "重置密码",
+    "submit": "提交"
   }
 }

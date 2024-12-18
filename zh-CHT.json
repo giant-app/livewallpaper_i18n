@@ -130,7 +130,8 @@
     "installWebview2Tips": "本功能需要微軟最新的webview2運行時支持，請手動安裝後，重新打開本窗口",
     "reviewTitle": "這個版本還行嗎？",
     "reviewContent": "你似乎已經用了一段時間巨應壁紙了，有什麼想告訴開發者的嗎？",
-    "newPassword": "新密碼"
+    "newPassword": "新密碼",
+    "backToLogin": "返回登錄"
   },
   "findpassword": {
     "msg": "郵件發送成功，請去郵箱修改密碼。"
@@ -318,6 +319,7 @@
     "offline": "離線模式"
   },
   "resetPwd": {
-    "title": "重置密碼"
+    "title": "重置密碼",
+    "submit": "提交"
   }
 }
