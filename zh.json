@@ -242,7 +242,8 @@
         "genderOptionFemale": "女",
         "genderOptionOther": "其他",
         "avatarUrl": "头像地址",
-        "bindEmailSent": "邮件已发送，注意查收"
+        "bindEmailSent": "邮件已发送，注意查收",
+        "unbind": "解除绑定"
       },
       "pro": {
         "activation_code": "激活码",

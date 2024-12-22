@@ -242,7 +242,8 @@
         "genderOptionFemale": "Feminino",
         "genderOptionOther": "Outro",
         "avatarUrl": "URL do Avatar",
-        "bindEmailSent": "O email foi enviado, por favor verifique"
+        "bindEmailSent": "O email foi enviado, por favor verifique",
+        "unbind": "Desvincular"
       },
       "pro": {
         "activation_code": "Código de Ativação",
