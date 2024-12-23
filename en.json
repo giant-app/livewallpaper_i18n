@@ -321,6 +321,8 @@
   },
   "resetPwd": {
     "title": "Reset Password",
-    "submit": "Submit"
+    "submit": "Submit",
+    "success": "Password reset successful",
+    "successTips": "Please login again with your new password"
   }
 }

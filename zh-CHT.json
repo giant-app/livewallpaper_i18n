@@ -321,6 +321,8 @@
   },
   "resetPwd": {
     "title": "重置密碼",
-    "submit": "提交"
+    "submit": "提交",
+    "success": "密碼重置成功",
+    "successTips": "請使用新密碼重新登錄"
   }
 }

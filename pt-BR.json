@@ -321,6 +321,8 @@
   },
   "resetPwd": {
     "title": "Redefinir senha",
-    "submit": "Enviar"
+    "submit": "Enviar",
+    "success": "Senha redefinida com sucesso",
+    "successTips": "Por favor, faça login novamente com sua nova senha"
   }
 }
