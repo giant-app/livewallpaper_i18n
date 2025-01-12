@@ -270,7 +270,19 @@
         "purchaseHistory": "История покупок",
         "plan": "План",
         "purchaseTime": "Время покупки",
-        "status": "Статус"
+        "status": "Статус",
+        "amount": "Сумма",
+        "paymentMethod": "Способ оплаты",
+        "orderNumber": "Номер заказа",
+        "paymentStatus": {
+          "pending": "Ожидание",
+          "success": "Успешно",
+          "failed": "Ошибка"
+        },
+        "monthlyDuration": "1 месяц",
+        "yearlyDuration": "12 месяцев",
+        "permanentDuration": "Бессрочно",
+        "permanent": "Пожизненное членство"
       }
     },
     "wallpapers": {

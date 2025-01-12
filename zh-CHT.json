@@ -265,12 +265,22 @@
         "selectPlan": "選擇方案",
         "monthly": "月度會員",
         "yearly": "年度會員",
-        "monthDuration": "1個月",
-        "yearDuration": "12個月",
         "purchaseHistory": "購買歷史",
         "plan": "套餐",
         "purchaseTime": "購買時間",
-        "status": "狀態"
+        "status": "狀態",
+        "amount": "金額",
+        "paymentMethod": "支付方式",
+        "orderNumber": "訂單號",
+        "paymentStatus": {
+          "pending": "待支付",
+          "success": "支付成功",
+          "failed": "支付失敗"
+        },
+        "permanent": "永久會員",
+        "permanentDuration": "永久",
+        "monthlyDuration": "1個月",
+        "yearlyDuration": "12個月"
       }
     },
     "wallpapers": {

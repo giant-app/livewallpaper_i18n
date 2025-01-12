@@ -262,15 +262,25 @@
         "msg_codeSuccessful": "Ativação bem-sucedida, pressione F5 para atualizar a página e que as alterações tenham efeito",
         "tutorial": "Tutorial de Ativação",
         "purchase": "Comprar assinatura",
-        "selectPlan": "Selecionar Plano",
+        "selectPlan": "Selecionar plano",
         "monthly": "Plano Mensal",
         "yearly": "Plano Anual",
-        "monthDuration": "1 Mês",
-        "yearDuration": "12 Meses",
-        "purchaseHistory": "Histórico de Compras",
+        "purchaseHistory": "Histórico de compras",
         "plan": "Plano",
-        "purchaseTime": "Data da Compra",
-        "status": "Status"
+        "purchaseTime": "Data da compra",
+        "status": "Status",
+        "amount": "Valor",
+        "paymentMethod": "Forma de pagamento",
+        "orderNumber": "Número do pedido",
+        "paymentStatus": {
+          "pending": "Pendente",
+          "success": "Sucesso",
+          "failed": "Falha"
+        },
+        "permanent": "Assinatura Vitalícia",
+        "permanentDuration": "Permanente",
+        "monthlyDuration": "1 Mês",
+        "yearlyDuration": "12 Meses"
       }
     },
     "wallpapers": {
