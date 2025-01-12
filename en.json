@@ -260,7 +260,13 @@
         "msg_codeIsUsed": "The activation code has already been used",
         "msg_codeIsInvalid": "Invalid activation code",
         "msg_codeSuccessful": "Activation successful, press F5 to refresh the page to take effect",
-        "tutorial": "Activation Tutorial"
+        "tutorial": "Activation Tutorial",
+        "purchase": "Purchase Membership",
+        "selectPlan": "Select Plan",
+        "monthly": "Monthly Plan",
+        "yearly": "Annual Plan",
+        "monthDuration": "1 Month",
+        "yearDuration": "12 Months"
       }
     },
     "wallpapers": {

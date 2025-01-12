@@ -260,7 +260,13 @@
         "msg_codeIsUsed": "O código de ativação já foi utilizado",
         "msg_codeIsInvalid": "Código de ativação inválido",
         "msg_codeSuccessful": "Ativação bem-sucedida, pressione F5 para atualizar a página e que as alterações tenham efeito",
-        "tutorial": "Tutorial de Ativação"
+        "tutorial": "Tutorial de Ativação",
+        "purchase": "Comprar assinatura",
+        "selectPlan": "Selecionar Plano",
+        "monthly": "Plano Mensal",
+        "yearly": "Plano Anual",
+        "monthDuration": "1 Mês",
+        "yearDuration": "12 Meses"
       }
     },
     "wallpapers": {
