@@ -266,7 +266,11 @@
         "monthly": "Месячный план",
         "yearly": "Годовой план",
         "monthDuration": "1 месяц",
-        "yearDuration": "12 месяцев"
+        "yearDuration": "12 месяцев",
+        "purchaseHistory": "История покупок",
+        "plan": "План",
+        "purchaseTime": "Время покупки",
+        "status": "Статус"
       }
     },
     "wallpapers": {

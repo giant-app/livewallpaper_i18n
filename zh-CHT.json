@@ -266,7 +266,11 @@
         "monthly": "月度會員",
         "yearly": "年度會員",
         "monthDuration": "1個月",
-        "yearDuration": "12個月"
+        "yearDuration": "12個月",
+        "purchaseHistory": "購買歷史",
+        "plan": "套餐",
+        "purchaseTime": "購買時間",
+        "status": "狀態"
       }
     },
     "wallpapers": {

@@ -266,7 +266,11 @@
         "monthly": "Plano Mensal",
         "yearly": "Plano Anual",
         "monthDuration": "1 Mês",
-        "yearDuration": "12 Meses"
+        "yearDuration": "12 Meses",
+        "purchaseHistory": "Histórico de Compras",
+        "plan": "Plano",
+        "purchaseTime": "Data da Compra",
+        "status": "Status"
       }
     },
     "wallpapers": {
