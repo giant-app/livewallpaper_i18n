@@ -131,7 +131,10 @@
     "reviewTitle": "Esta versão está ok?",
     "reviewContent": "Parece que você tem usado o LiveWallpaper por um tempo, há algo que você gostaria de nos dizer?",
     "newPassword": "Nova senha",
-    "backToLogin": "Voltar para login"
+    "backToLogin": "Voltar para login",
+    "confirm": "Confirmar",
+    "confirmDelete": "Tem certeza que deseja excluir?",
+    "deleteSuccess": "Excluído com sucesso"
   },
   "findpassword": {
     "msg": "O e-mail foi enviado com sucesso, por favor, vá à caixa de entrada para alterar a senha."

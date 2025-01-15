@@ -131,7 +131,10 @@
     "reviewTitle": "Is this version okay?",
     "reviewContent": "You seem to have been using LiveWallpaper for a while, is there anything you want to tell us?",
     "newPassword": "New Password",
-    "backToLogin": "Back to login"
+    "backToLogin": "Back to login",
+    "confirm": "Confirm",
+    "confirmDelete": "Are you sure you want to delete?",
+    "deleteSuccess": "Successfully deleted"
   },
   "findpassword": {
     "msg": "The email is sent successfully, please go to the mailbox to change the password."

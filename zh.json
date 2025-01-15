@@ -131,7 +131,10 @@
     "reviewTitle": "这个版本还行吗？",
     "reviewContent": "你似乎已经用了一段时间巨应壁纸了，有什么想告诉开发者的吗？",
     "newPassword": "新密码",
-    "backToLogin": "返回登录"
+    "backToLogin": "返回登录",
+    "confirm": "确认",
+    "confirmDelete": "确认要删除吗？",
+    "deleteSuccess": "删除成功"
   },
   "findpassword": {
     "msg": "邮件发送成功，请去邮箱修改密码。"
