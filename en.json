@@ -134,7 +134,8 @@
     "backToLogin": "Back to login",
     "confirm": "Confirm",
     "confirmDelete": "Are you sure you want to delete?",
-    "deleteSuccess": "Successfully deleted"
+    "deleteSuccess": "Successfully deleted",
+    "confirmCancel": "Are you sure you want to cancel this payment?"
   },
   "findpassword": {
     "msg": "The email is sent successfully, please go to the mailbox to change the password."
@@ -283,7 +284,8 @@
         "permanent": "Lifetime Membership",
         "permanentDuration": "Permanent",
         "monthlyDuration": "1 Month",
-        "yearlyDuration": "12 Months"
+        "yearlyDuration": "12 Months",
+        "paidRefresh": "I have paid, refresh"
       }
     },
     "wallpapers": {

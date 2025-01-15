@@ -134,7 +134,8 @@
     "backToLogin": "返回登录",
     "confirm": "确认",
     "confirmDelete": "确认要删除吗？",
-    "deleteSuccess": "删除成功"
+    "deleteSuccess": "删除成功",
+    "confirmCancel": "确定要取消此次支付吗？"
   },
   "findpassword": {
     "msg": "邮件发送成功，请去邮箱修改密码。"
@@ -283,7 +284,8 @@
         "monthlyDuration": "1个月",
         "yearlyDuration": "12个月",
         "permanentDuration": "永久",
-        "permanent": "永久会员"
+        "permanent": "永久会员",
+        "paidRefresh": "我已支付，刷新"
       }
     },
     "wallpapers": {

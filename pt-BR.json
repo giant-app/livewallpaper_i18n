@@ -134,7 +134,8 @@
     "backToLogin": "Voltar para login",
     "confirm": "Confirmar",
     "confirmDelete": "Tem certeza que deseja excluir?",
-    "deleteSuccess": "Excluído com sucesso"
+    "deleteSuccess": "Excluído com sucesso",
+    "confirmCancel": "Tem certeza que deseja cancelar este pagamento?"
   },
   "findpassword": {
     "msg": "O e-mail foi enviado com sucesso, por favor, vá à caixa de entrada para alterar a senha."
@@ -283,7 +284,8 @@
         "permanent": "Assinatura Vitalícia",
         "permanentDuration": "Permanente",
         "monthlyDuration": "1 Mês",
-        "yearlyDuration": "12 Meses"
+        "yearlyDuration": "12 Meses",
+        "paidRefresh": "Já paguei, atualizar"
       }
     },
     "wallpapers": {
