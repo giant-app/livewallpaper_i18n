@@ -15,7 +15,7 @@
       "password": "Le mot de passe doit être une chaîne alphanumérique de {min} à {max}.",
       "confirmPassword": "La confirmation de ce champ ne correspond pas",
       "max": "La longueur maximale est {max}",
-      "uploadSizeLimit": "Le fichier de téléchargement maximum actuel ne peut pas dépasser {size}"
+      "uploadSizeLimit": "Le fichier d'envoie maximum actuel ne peut pas dépasser {size}"
     },
     "category": "Category",
     "wpCategories": {
@@ -62,8 +62,8 @@
     "week": "Semain",
     "day": "Jour",
     "sortType": "Tri",
-    "sortType_new_upload": "Nouveau téléchargement",
-    "sortType_total_download": "Total des téléchargements",
+    "sortType_new_upload": "Nouvelle envoie",
+    "sortType_total_download": "Nombre de téléchargement",
     "sortType_recently_hot": "Récemment populaire",
     "type": "Type",
     "video": "Video",
@@ -321,9 +321,9 @@
       },
       "editor": {
         "uploadTips": "Déposer le fichier ici ou cliquer sur Envoyer",
-        "uploadMessage": "Conseils : Tous les utilisateurs peuvent accéder à ce fond d'écran. Veuillez ne pas télécharger de fonds d'écran illégaux, pornographiques, violents ou sexuellement suggestifs, ni de fonds d'écran contenant des informations sur la vie privée. Ne téléchargez pas de fonds d'écran dupliqués ou de mauvaise qualité, ils pourraient être supprimés par l'administrateur.",
+        "uploadMessage": "Conseils : Tous les utilisateurs peuvent accéder à ce fond d'écran. Veuillez ne pas envoyer de fonds d'écran illégaux, pornographiques, violents ou sexuellement suggestifs, ni de fonds d'écran contenant des informations sur la vie privée. N'envoyer pas de fonds d'écran dupliqués ou de mauvaise qualité, ils pourraient être supprimés par l'administrateur.",
         "loadlUploadTips": "Déposer le fichier ou chercher le manuellement",
-        "localUploadMessage": "Conseils : Le fond d'écran n'est utilisé que sur votre machine locale et n'est pas téléchargé sur le serveur.",
+        "localUploadMessage": "Conseils : Le fond d'écran n'est utilisé que sur votre machine locale et n'est pas envoyé sur notre serveur.",
         "uploadCancelled": "Envoie annulé",
         "title": "Titre",
         "titlePlaceholder": "Veuillez prendre un titre significatif",
