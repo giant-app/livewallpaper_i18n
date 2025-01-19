@@ -287,7 +287,8 @@
         "monthlyDuration": "1 Month",
         "yearlyDuration": "12 Months",
         "paidRefresh": "I have paid, refresh",
-        "paymentSuccess": "Payment successful"
+        "paymentSuccess": "Payment successful",
+        "scanToPay": "Scan with WeChat to pay"
       }
     },
     "wallpapers": {

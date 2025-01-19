@@ -287,7 +287,8 @@
         "permanentDuration": "永久",
         "permanent": "永久会员",
         "paidRefresh": "我已支付，刷新",
-        "paymentSuccess": "支付成功"
+        "paymentSuccess": "支付成功",
+        "scanToPay": "微信扫码支付"
       }
     },
     "wallpapers": {
