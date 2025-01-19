@@ -279,13 +279,15 @@
         "paymentStatus": {
           "pending": "Pendente",
           "success": "Sucesso",
-          "failed": "Falha"
+          "failed": "Falha",
+          "paid": "Pago"
         },
         "permanent": "Assinatura Vitalícia",
         "permanentDuration": "Permanente",
         "monthlyDuration": "1 Mês",
         "yearlyDuration": "12 Meses",
-        "paidRefresh": "Já paguei, atualizar"
+        "paidRefresh": "Já paguei, atualizar",
+        "paymentSuccess": "Pagamento realizado com sucesso"
       }
     },
     "wallpapers": {

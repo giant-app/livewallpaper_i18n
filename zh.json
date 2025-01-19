@@ -279,13 +279,15 @@
         "paymentStatus": {
           "pending": "待支付",
           "success": "支付成功",
-          "failed": "支付失败"
+          "failed": "支付失败",
+          "paid": "已支付"
         },
         "monthlyDuration": "1个月",
         "yearlyDuration": "12个月",
         "permanentDuration": "永久",
         "permanent": "永久会员",
-        "paidRefresh": "我已支付，刷新"
+        "paidRefresh": "我已支付，刷新",
+        "paymentSuccess": "支付成功"
       }
     },
     "wallpapers": {

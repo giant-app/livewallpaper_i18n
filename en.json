@@ -279,13 +279,15 @@
         "paymentStatus": {
           "pending": "Pending",
           "success": "Success",
-          "failed": "Failed"
+          "failed": "Failed",
+          "paid": "Paid"
         },
         "permanent": "Lifetime Membership",
         "permanentDuration": "Permanent",
         "monthlyDuration": "1 Month",
         "yearlyDuration": "12 Months",
-        "paidRefresh": "I have paid, refresh"
+        "paidRefresh": "I have paid, refresh",
+        "paymentSuccess": "Payment successful"
       }
     },
     "wallpapers": {

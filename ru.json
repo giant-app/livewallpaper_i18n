@@ -281,13 +281,15 @@
         "paymentStatus": {
           "pending": "Ожидание",
           "success": "Успешно",
-          "failed": "Ошибка"
+          "failed": "Ошибка",
+          "paid": "Оплачено"
         },
         "monthlyDuration": "1 месяц",
         "yearlyDuration": "12 месяцев",
         "permanentDuration": "Бессрочно",
         "permanent": "Пожизненное членство",
-        "paidRefresh": "Я оплатил, обновить"
+        "paidRefresh": "Я оплатил, обновить",
+        "paymentSuccess": "Оплата прошла успешно"
       }
     },
     "wallpapers": {
