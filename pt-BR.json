@@ -287,7 +287,6 @@
         "monthlyDuration": "1 Mês",
         "yearlyDuration": "12 Meses",
         "paidRefresh": "Já paguei, atualizar",
-        "paymentSuccess": "Pagamento realizado com sucesso",
         "scanToPay": "Escaneie com WeChat para pagar"
       }
     },

@@ -287,7 +287,6 @@
         "monthlyDuration": "1個月",
         "yearlyDuration": "12個月",
         "paidRefresh": "我已支付，刷新",
-        "paymentSuccess": "支付成功",
         "scanToPay": "微信掃碼支付"
       }
     },
