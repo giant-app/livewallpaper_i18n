@@ -252,7 +252,7 @@
       "pro": {
         "activation_code": "激活码",
         "regTime": "激活日期",
-        "expireTime": "质保到期",
+        "expireTime": "到期时间",
         "feature": "开通权益",
         "featureContent": "去除谷歌广告，解除下载限制",
         "buy": "购买激活码",
@@ -287,7 +287,18 @@
         "permanentDuration": "永久",
         "permanent": "永久会员",
         "paidRefresh": "我已支付，刷新",
-        "scanToPay": "微信扫码支付"
+        "scanToPay": "微信扫码支付",
+        "memberInfo": "会员信息",
+        "memberStatus": "会员状态",
+        "active": "已启用",
+        "inactive": "未启用",
+        "adFreeTime": "免广告时间",
+        "featureUnlockTime": "功能解锁时间",
+        "membershipDesc": {
+          "permanent": "永久解锁功能，免广告5年",
+          "monthly": "解锁功能，免广告一个月",
+          "yearly": "解锁功能，免广告一年"
+        }
       }
     },
     "wallpapers": {

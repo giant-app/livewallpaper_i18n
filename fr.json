@@ -285,7 +285,18 @@
         "permanentDuration": "Permanent",
         "monthlyDuration": "1 Mois",
         "yearlyDuration": "12 Mois",
-        "paidRefresh": "J'ai payé, raffraichir"
+        "paidRefresh": "J'ai payé, raffraichir",
+        "memberInfo": "Informations d'adhésion",
+        "memberStatus": "Statut d'adhésion",
+        "active": "Actif",
+        "inactive": "Inactif",
+        "adFreeTime": "Sans publicité jusqu'au",
+        "featureUnlockTime": "Fonctionnalités débloquées jusqu'au",
+        "membershipDesc": {
+          "permanent": "Fonctionnalités débloquées à vie, sans publicité pendant 5 ans",
+          "monthly": "Fonctionnalités débloquées et sans publicité pendant un mois",
+          "yearly": "Fonctionnalités débloquées et sans publicité pendant un an"
+        }
       }
     },
     "wallpapers": {

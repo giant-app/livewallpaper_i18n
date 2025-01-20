@@ -253,7 +253,7 @@
         "activation_code": "Activation code",
         "buy": "Buy activation code",
         "regTime": "Activation date",
-        "expireTime": "Warranty expired",
+        "expireTime": "Expiration Date",
         "activated": "Activated",
         "history": "Query purchase records",
         "feature": "Open rights",
@@ -287,7 +287,18 @@
         "monthlyDuration": "1 Month",
         "yearlyDuration": "12 Months",
         "paidRefresh": "I have paid, refresh",
-        "scanToPay": "Scan with WeChat to pay"
+        "scanToPay": "Scan with WeChat to pay",
+        "memberInfo": "Membership Info",
+        "memberStatus": "Membership Status",
+        "active": "Active",
+        "inactive": "Inactive",
+        "adFreeTime": "Ad-Free Until",
+        "featureUnlockTime": "Features Unlocked Until",
+        "membershipDesc": {
+          "permanent": "Lifetime feature unlock, 5 years ad-free",
+          "monthly": "Feature unlock and ad-free for one month",
+          "yearly": "Feature unlock and ad-free for one year"
+        }
       }
     },
     "wallpapers": {

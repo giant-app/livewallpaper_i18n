@@ -253,7 +253,7 @@
         "activation_code": "Código de Ativação",
         "buy": "Comprar código de ativação",
         "regTime": "Data de ativação",
-        "expireTime": "Garantia expirada",
+        "expireTime": "Data de Expiração",
         "activated": "Ativado",
         "history": "Consultar registros de compra",
         "feature": "Direitos ativados",
@@ -287,7 +287,18 @@
         "monthlyDuration": "1 Mês",
         "yearlyDuration": "12 Meses",
         "paidRefresh": "Já paguei, atualizar",
-        "scanToPay": "Escaneie com WeChat para pagar"
+        "scanToPay": "Escaneie com WeChat para pagar",
+        "memberInfo": "Informações de Associação",
+        "memberStatus": "Status da Associação",
+        "active": "Ativo",
+        "inactive": "Inativo",
+        "adFreeTime": "Livre de anúncios até",
+        "featureUnlockTime": "Recursos desbloqueados até",
+        "membershipDesc": {
+          "permanent": "Recursos desbloqueados vitalícios, sem anúncios por 5 anos",
+          "monthly": "Recursos desbloqueados e sem anúncios por um mês",
+          "yearly": "Recursos desbloqueados e sem anúncios por um ano"
+        }
       }
     },
     "wallpapers": {

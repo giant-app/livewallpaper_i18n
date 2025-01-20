@@ -287,7 +287,18 @@
         "monthlyDuration": "1個月",
         "yearlyDuration": "12個月",
         "paidRefresh": "我已支付，刷新",
-        "scanToPay": "微信掃碼支付"
+        "scanToPay": "微信掃碼支付",
+        "memberInfo": "會員信息",
+        "memberStatus": "會員狀態",
+        "active": "已啟用",
+        "inactive": "未啟用",
+        "adFreeTime": "免廣告時間",
+        "featureUnlockTime": "功能解鎖時間",
+        "membershipDesc": {
+          "permanent": "永久解鎖功能，免廣告5年",
+          "monthly": "解鎖功能，免廣告一個月",
+          "yearly": "解鎖功能，免廣告一年"
+        }
       }
     },
     "wallpapers": {
