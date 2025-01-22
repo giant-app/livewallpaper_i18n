@@ -298,7 +298,12 @@
           "permanent": "Lifetime feature unlock, 5 years ad-free",
           "monthly": "Feature unlock and ad-free for one month",
           "yearly": "Feature unlock and ad-free for one year"
-        }
+        },
+        "upgradeLegacyMember": "Upgrade Legacy Membership",
+        "upgradeLegacyMemberHint": "(If you purchased a membership before, please click this button to upgrade)",
+        "upgradeSuccess": "Membership upgrade successful",
+        "noLegacyMember": "No legacy membership information found",
+        "upgradeFailed": "Upgrade failed, please try again later"
       }
     },
     "wallpapers": {

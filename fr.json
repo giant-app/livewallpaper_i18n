@@ -296,7 +296,12 @@
           "permanent": "Fonctionnalités débloquées à vie, sans publicité pendant 5 ans",
           "monthly": "Fonctionnalités débloquées et sans publicité pendant un mois",
           "yearly": "Fonctionnalités débloquées et sans publicité pendant un an"
-        }
+        },
+        "upgradeLegacyMember": "Mettre à niveau l'ancien abonnement",
+        "upgradeLegacyMemberHint": "(Si vous avez déjà acheté un abonnement, veuillez cliquer sur ce bouton pour le mettre à niveau)",
+        "upgradeSuccess": "Mise à niveau de l'abonnement réussie",
+        "noLegacyMember": "Aucune information d'ancien abonnement trouvée",
+        "upgradeFailed": "La mise à niveau a échoué, veuillez réessayer plus tard"
       }
     },
     "wallpapers": {

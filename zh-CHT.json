@@ -298,7 +298,12 @@
           "permanent": "永久解鎖功能，免廣告5年",
           "monthly": "解鎖功能，免廣告一個月",
           "yearly": "解鎖功能，免廣告一年"
-        }
+        },
+        "upgradeLegacyMember": "升級舊會員",
+        "upgradeLegacyMemberHint": "（如果您之前購買過會員，請點擊此按鈕進行升級）",
+        "upgradeSuccess": "會員升級成功",
+        "noLegacyMember": "未發現舊會員信息",
+        "upgradeFailed": "升級失敗，請稍後重試"
       }
     },
     "wallpapers": {

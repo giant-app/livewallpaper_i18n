@@ -298,7 +298,12 @@
           "permanent": "Recursos desbloqueados vitalícios, sem anúncios por 5 anos",
           "monthly": "Recursos desbloqueados e sem anúncios por um mês",
           "yearly": "Recursos desbloqueados e sem anúncios por um ano"
-        }
+        },
+        "upgradeLegacyMember": "Atualizar Assinatura Antiga",
+        "upgradeLegacyMemberHint": "(Se você comprou uma assinatura anteriormente, clique neste botão para atualizar)",
+        "upgradeSuccess": "Atualização da assinatura bem-sucedida",
+        "noLegacyMember": "Nenhuma informação de assinatura antiga encontrada",
+        "upgradeFailed": "Falha na atualização, tente novamente mais tarde"
       }
     },
     "wallpapers": {
