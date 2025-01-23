@@ -257,7 +257,7 @@
         "activated": "Ativado",
         "history": "Consultar registros de compra",
         "feature": "Direitos ativados",
-        "featureContent": "Remover anúncios do Google, remover restrições de download",
+        "featureContent": "Remover anúncios de terceiros, remover restrições de download",
         "iDonatedBefore": "Já fiz uma doação anteriormente",
         "activate": "Ativar",
         "activateHistory": "Histórico de ativação",
@@ -292,12 +292,12 @@
         "memberStatus": "Status da Associação",
         "active": "Ativo",
         "inactive": "Inativo",
-        "adFreeTime": "Livre de anúncios até",
+        "adFreeTime": "Tempo sem anúncios de terceiros",
         "featureUnlockTime": "Recursos desbloqueados até",
         "membershipDesc": {
-          "permanent": "Recursos desbloqueados vitalícios, sem anúncios por 5 anos",
-          "monthly": "Recursos desbloqueados e sem anúncios por um mês",
-          "yearly": "Recursos desbloqueados e sem anúncios por um ano"
+          "permanent": "Desbloqueio vitalício de recursos, 5 anos sem anúncios de terceiros",
+          "monthly": "Desbloqueio de recursos e sem anúncios de terceiros por um mês",
+          "yearly": "Desbloqueio de recursos e sem anúncios de terceiros por um ano"
         },
         "upgradeLegacyMember": "Atualizar Assinatura Antiga",
         "upgradeLegacyMemberHint": "(Se você comprou uma assinatura anteriormente, clique neste botão para atualizar)",

@@ -257,7 +257,7 @@
         "activated": "Activated",
         "history": "Query purchase records",
         "feature": "Open rights",
-        "featureContent": "Remove Google ads, remove download restrictions",
+        "featureContent": "Remove third-party ads, remove download restrictions",
         "iDonatedBefore": "I have donated before",
         "activate": "Activate",
         "activateHistory": "Activate history",
@@ -292,12 +292,12 @@
         "memberStatus": "Membership Status",
         "active": "Active",
         "inactive": "Inactive",
-        "adFreeTime": "Ad-Free Until",
+        "adFreeTime": "Third-party ad-free time",
         "featureUnlockTime": "Features Unlocked Until",
         "membershipDesc": {
-          "permanent": "Lifetime feature unlock, 5 years ad-free",
-          "monthly": "Feature unlock and ad-free for one month",
-          "yearly": "Feature unlock and ad-free for one year"
+          "permanent": "Lifetime feature unlock, 5 years third-party ad-free",
+          "monthly": "Feature unlock and third-party ad-free for one month",
+          "yearly": "Feature unlock and third-party ad-free for one year"
         },
         "upgradeLegacyMember": "Upgrade Legacy Membership",
         "upgradeLegacyMemberHint": "(If you purchased a membership before, please click this button to upgrade)",

@@ -257,7 +257,7 @@
         "buy": "購買激活碼",
         "activated": "已激活",
         "history": "查詢購買記錄",
-        "featureContent": "去除谷歌廣告，解除下載限制",
+        "featureContent": "去除第三方廣告，解除下載限制",
         "iDonatedBefore": "我以前捐贈過",
         "activate": "激活",
         "activateHistory": "激活歷史",
@@ -292,12 +292,12 @@
         "memberStatus": "會員狀態",
         "active": "已啟用",
         "inactive": "未啟用",
-        "adFreeTime": "免廣告時間",
+        "adFreeTime": "免第三方廣告時間",
         "featureUnlockTime": "功能解鎖時間",
         "membershipDesc": {
-          "permanent": "永久解鎖功能，免廣告5年",
-          "monthly": "解鎖功能，免廣告一個月",
-          "yearly": "解鎖功能，免廣告一年"
+          "permanent": "永久解鎖功能，免第三方廣告5年",
+          "monthly": "解鎖功能，免第三方廣告一個月",
+          "yearly": "解鎖功能，免第三方廣告一年"
         },
         "upgradeLegacyMember": "升級舊會員",
         "upgradeLegacyMemberHint": "（如果您之前購買過會員，請點擊此按鈕進行升級）",
