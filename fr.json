@@ -193,10 +193,10 @@
     "viewEmail": "Veuillez vous rendre dans votre boîte mail pour l'activer, en faisant attention à ce qu'il ne se trouve pas dans le spam"
   },
   "wallpapers": {
-    "title": "Communauté des Fonds d'écrans",
+    "title": "Communauté LiveWallpaper",
     "meta": {
-      "description": "LiveWallpaper communauté, une communauté d'échange de fonds d'écran gratuits",
-      "keywords": "LiveWallpaper communauté, Envoie de Fond d'écran, Téléchargement de Fond d'écran, Collection de Fond d'écran, Fond d'écran animé"
+      "description": "LiveWallpaper community, une communauté d'échange de fonds d'écran gratuits",
+      "keywords": "LiveWallpaper community, Envoie de Fond d'écran, Téléchargement de Fond d'écran, Collection de Fond d'écran, Fond d'écran animé"
     },
     "info": {
       "favorite": "Favoris",
@@ -207,7 +207,7 @@
       "downloadViaBrowser": "Télécharger via le navigateur",
       "downloadWP": "Télécharger des Fond d'écrans",
       "downloaded": "Téléchargé",
-      "gotoLocalWallpaper": "Aller aux fond d'écran local pour voir",
+      "gotoLocalWallpaper": "Aller aux fonds d'écran locaux",
       "selfmadeTips": "La réutilisation est interdite sans l'autorisation de l'auteur.",
       "other": "Autres fonds d'écran de l'auteur",
       "report": "Signaler"
@@ -247,7 +247,7 @@
         "genderOptionOther": "Autre",
         "avatarUrl": "url de l'Avatar",
         "bindEmailSent": "l'email a été envoyé, veuillez le vérifier",
-        "unbind": "Délier"
+        "unbind": "déconnecter"
       },
       "pro": {
         "activation_code": "code d'Activation",
