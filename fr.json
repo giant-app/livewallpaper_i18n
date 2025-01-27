@@ -257,7 +257,7 @@
         "activated": "Activé",
         "history": "Verification de l'achat",
         "feature": "Open rights",
-        "featureContent": "Supprimer les annonces tierces, supprimer les restrictions de téléchargement",
+        "featureContent": "Supprimer les publicités, supprimer les restrictions de téléchargement",
         "iDonatedBefore": "J'ai déja donné",
         "activate": "Activé",
         "activateHistory": "Activer l'historique",
@@ -290,12 +290,12 @@
         "memberStatus": "Statut d'adhésion",
         "active": "Actif",
         "inactive": "Inactif",
-        "adFreeTime": "Période sans annonces tierces",
+        "adFreeTime": "Période sans publicités",
         "featureUnlockTime": "Fonctionnalités débloquées jusqu'au",
         "membershipDesc": {
-          "permanent": "Déverrouillage à vie des fonctionnalités, 5 ans sans annonces tierces",
-          "monthly": "Déverrouillage des fonctionnalités et sans annonces tierces pendant un mois",
-          "yearly": "Déverrouillage des fonctionnalités et sans annonces tierces pendant un an"
+          "permanent": "Déverrouillage à vie des fonctionnalités, 5 ans sans publicités",
+          "monthly": "Déverrouillage des fonctionnalités et accès sans publicités pendant un mois",
+          "yearly": "Déverrouillage des fonctionnalités et accès sans publicités pendant un an"
         },
         "upgradeLegacyMember": "Mettre à niveau l'ancien abonnement",
         "upgradeLegacyMemberHint": "(Si vous avez déjà acheté un abonnement, veuillez cliquer sur ce bouton pour le mettre à niveau)",
@@ -306,7 +306,7 @@
     },
     "wallpapers": {
       "editor": {
-        "copyrightDescription": "Respectez les droits d'auteur, réutiliser la vidéo légale et indiquez l'adresse de la source."
+        "copyrightDescription": "Respectez les droits d'auteur, réutiliser la vidéo légale en indiquant l'adresse de la source."
       }
     },
     "client": {
