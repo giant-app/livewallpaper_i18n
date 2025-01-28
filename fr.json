@@ -193,10 +193,10 @@
     "viewEmail": "Veuillez vous rendre dans votre boîte mail pour l'activer, en faisant attention à ce qu'il ne se trouve pas dans le spam"
   },
   "wallpapers": {
-    "title": "Communauté des Fonds d'écrans",
+    "title": "Communauté LiveWallpaper",
     "meta": {
-      "description": "LiveWallpaper communauté, une communauté d'échange de fonds d'écran gratuits",
-      "keywords": "LiveWallpaper communauté, Envoie de Fond d'écran, Téléchargement de Fond d'écran, Collection de Fond d'écran, Fond d'écran animé"
+      "description": "LiveWallpaper community, une communauté d'échange de fonds d'écran gratuits",
+      "keywords": "LiveWallpaper community, Envoie de Fond d'écran, Téléchargement de Fond d'écran, Collection de Fond d'écran, Fond d'écran animé"
     },
     "info": {
       "favorite": "Favoris",
@@ -207,7 +207,7 @@
       "downloadViaBrowser": "Télécharger via le navigateur",
       "downloadWP": "Télécharger des Fond d'écrans",
       "downloaded": "Téléchargé",
-      "gotoLocalWallpaper": "Aller aux fond d'écran local pour voir",
+      "gotoLocalWallpaper": "Aller aux fonds d'écran locaux",
       "selfmadeTips": "La réutilisation est interdite sans l'autorisation de l'auteur.",
       "other": "Autres fonds d'écran de l'auteur",
       "report": "Signaler"
@@ -247,7 +247,7 @@
         "genderOptionOther": "Autre",
         "avatarUrl": "url de l'Avatar",
         "bindEmailSent": "l'email a été envoyé, veuillez le vérifier",
-        "unbind": "Délier"
+        "unbind": "déconnecter"
       },
       "pro": {
         "activation_code": "code d'Activation",
@@ -257,7 +257,7 @@
         "activated": "Activé",
         "history": "Verification de l'achat",
         "feature": "Open rights",
-        "featureContent": "Supprimer les annonces tierces, supprimer les restrictions de téléchargement",
+        "featureContent": "Supprimer les publicités, supprimer les restrictions de téléchargement",
         "iDonatedBefore": "J'ai déja donné",
         "activate": "Activé",
         "activateHistory": "Activer l'historique",
@@ -290,12 +290,12 @@
         "memberStatus": "Statut d'adhésion",
         "active": "Actif",
         "inactive": "Inactif",
-        "adFreeTime": "Période sans annonces tierces",
+        "adFreeTime": "Période sans publicités",
         "featureUnlockTime": "Fonctionnalités débloquées jusqu'au",
         "membershipDesc": {
-          "permanent": "Déverrouillage à vie des fonctionnalités, 5 ans sans annonces tierces",
-          "monthly": "Déverrouillage des fonctionnalités et sans annonces tierces pendant un mois",
-          "yearly": "Déverrouillage des fonctionnalités et sans annonces tierces pendant un an"
+          "permanent": "Déverrouillage à vie des fonctionnalités, 5 ans sans publicités",
+          "monthly": "Déverrouillage des fonctionnalités et accès sans publicités pendant un mois",
+          "yearly": "Déverrouillage des fonctionnalités et accès sans publicités pendant un an"
         },
         "upgradeLegacyMember": "Mettre à niveau l'ancien abonnement",
         "upgradeLegacyMemberHint": "(Si vous avez déjà acheté un abonnement, veuillez cliquer sur ce bouton pour le mettre à niveau)",
@@ -306,7 +306,7 @@
     },
     "wallpapers": {
       "editor": {
-        "copyrightDescription": "Respectez les droits d'auteur, réutiliser la vidéo légale et indiquez l'adresse de la source."
+        "copyrightDescription": "Respectez les droits d'auteur, réutiliser la vidéo légale en indiquant l'adresse de la source."
       }
     },
     "client": {
