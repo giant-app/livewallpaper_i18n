@@ -126,7 +126,7 @@
     "releaseNotes": "Release Notes",
     "thumbUp": "Give a thumb up",
     "donate": "Donate",
-    "donate_info": "Please support the Giantapp community, <a href='/dashboard/account/pro'>click to activate the Pro version</a>, low-cost members can use it permanently",
+    "donate_info": "Community traffic is expensive, please try again tomorrow or activate membership to remove restrictions. Thank you for your understanding. <a href='/dashboard/account/pro'>Click to activate Pro version</a>",
     "installWebview2Tips": "This function requires Microsoft's latest webview2 runtime support. Please reopen this window after manual installation",
     "reviewTitle": "Is this version okay?",
     "reviewContent": "You seem to have been using LiveWallpaper for a while, is there anything you want to tell us?",

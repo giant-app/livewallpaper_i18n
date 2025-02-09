@@ -126,7 +126,7 @@
     "releaseNotes": "發行說明",
     "thumbUp": "好評鼓勵",
     "donate": "捐贈",
-    "donate_info": "請支持巨應社區，<a href='/dashboard/account/pro'>點擊開通Pro版</a>，低價會員永久使用",
+    "donate_info": "社區流量開銷昂貴，請明日再使用，或者開通會員解除限制，敬請諒解。<a href='/dashboard/account/pro'>點擊開通Pro版</a>",
     "installWebview2Tips": "本功能需要微軟最新的webview2運行時支持，請手動安裝後，重新打開本窗口",
     "reviewTitle": "這個版本還行嗎？",
     "reviewContent": "你似乎已經用了一段時間巨應壁紙了，有什麼想告訴開發者的嗎？",
