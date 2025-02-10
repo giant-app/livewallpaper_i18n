@@ -135,7 +135,9 @@
     "confirm": "確認",
     "confirmDelete": "確認要刪除嗎？",
     "deleteSuccess": "刪除成功",
-    "confirmCancel": "確定要取消此次支付嗎？"
+    "confirmCancel": "確定要取消此次支付嗎？",
+    "systemMaintenance": "系統維護中",
+    "maintenanceMessage": "系統正在進行維護升級，請稍後再試"
   },
   "findpassword": {
     "msg": "郵件發送成功，請去郵箱修改密碼。"

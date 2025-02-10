@@ -135,7 +135,9 @@
     "confirm": "Confirm",
     "confirmDelete": "Are you sure you want to delete?",
     "deleteSuccess": "Successfully deleted",
-    "confirmCancel": "Are you sure you want to cancel this payment?"
+    "confirmCancel": "Are you sure you want to cancel this payment?",
+    "systemMaintenance": "System Maintenance",
+    "maintenanceMessage": "System is under maintenance, please try again later"
   },
   "findpassword": {
     "msg": "The email is sent successfully, please go to the mailbox to change the password."

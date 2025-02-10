@@ -135,7 +135,9 @@
     "confirm": "Confirmar",
     "confirmDelete": "Tem certeza que deseja excluir?",
     "deleteSuccess": "Excluído com sucesso",
-    "confirmCancel": "Tem certeza que deseja cancelar este pagamento?"
+    "confirmCancel": "Tem certeza que deseja cancelar este pagamento?",
+    "systemMaintenance": "Manutenção do Sistema",
+    "maintenanceMessage": "O sistema está em manutenção, por favor tente novamente mais tarde"
   },
   "findpassword": {
     "msg": "O e-mail foi enviado com sucesso, por favor, vá à caixa de entrada para alterar a senha."

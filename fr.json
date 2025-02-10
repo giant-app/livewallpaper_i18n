@@ -135,7 +135,9 @@
     "confirm": "Confirmer",
     "confirmDelete": "Ête vous sur de vouloir le supprimer?",
     "deleteSuccess": "Désinstaller avec succès",
-    "confirmCancel": "Êtes-vous sûr de vouloir annuler ce paiement ?"
+    "confirmCancel": "Êtes-vous sûr de vouloir annuler ce paiement ?",
+    "systemMaintenance": "Maintenance du Système",
+    "maintenanceMessage": "Le système est en maintenance, veuillez réessayer plus tard"
   },
   "findpassword": {
     "msg": "L'e-mail a été envoyé avec succès, veuillez vous rendre dans votre boite mail pour modifier le mot de passe."
