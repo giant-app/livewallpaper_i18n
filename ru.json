@@ -183,11 +183,11 @@
   },
   "login": {
     "title": "Вход в аккаунт",
-    "loginTips": "Производя вход, вы соглашаетесь с <a href='https://giantapp.cn/post/protocols/user-licence/' target='_blank'>Пользовательским соглашением </a> и <a target='_blank' href='https://giantapp.cn/post/protocols/privacy-pc/'>Политикой конфиденциальности </a>",
+    "loginTips": "Производя вход, вы соглашаетесь с <a href='https://mp.weixin.qq.com/s?__biz=Mzg5NjY2ODY0Nw==&mid=2247483873&idx=1&sn=a0454669685ab200a1a64509df92ecf3&poc_token=HChJHGmjDKxD6KM9bQ-2vaDRDTEjwehZuDweBvA5' target='_blank'>Пользовательским соглашением </a> и <a target='_blank' href='https://mp.weixin.qq.com/s?__biz=Mzg5NjY2ODY0Nw==&mid=2247483885&idx=1&sn=1609c022c801b7408fb66d7075b5178a&poc_token=HClJHGmjJtOGOvs_sLv8vSaQo4GFRdRgYsRv8Ya_'>Политикой конфиденциальности </a>",
     "needRightFromUrl": "Вам необходимо войти в систему, чтобы получить доступ к <strong> {url} </strong>"
   },
   "register": {
-    "registerTips": "Я согласен с <a href='https://giantapp.cn/post/protocols/user-licence/' target='_blank'>Пользовательским соглашением </a> и <a target='_blank' href='https://giantapp.cn/post/protocols/privacy-pc/'>Политикой конфиденциальности </a>",
+    "registerTips": "Я согласен с <a href='https://mp.weixin.qq.com/s?__biz=Mzg5NjY2ODY0Nw==&mid=2247483873&idx=1&sn=a0454669685ab200a1a64509df92ecf3&poc_token=HChJHGmjDKxD6KM9bQ-2vaDRDTEjwehZuDweBvA5' target='_blank'>Пользовательским соглашением </a> и <a target='_blank' href='https://mp.weixin.qq.com/s?__biz=Mzg5NjY2ODY0Nw==&mid=2247483885&idx=1&sn=1609c022c801b7408fb66d7075b5178a&poc_token=HClJHGmjJtOGOvs_sLv8vSaQo4GFRdRgYsRv8Ya_'>Политикой конфиденциальности </a>",
     "title": "Регистрация уч. записи",
     "register": "Регистрация",
     "haveAccount": "Уже есть аккаунт",

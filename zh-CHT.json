@@ -183,11 +183,11 @@
   },
   "login": {
     "title": "登陸賬戶",
-    "loginTips": "登錄即代表你同意<a href='https://giantapp.cn/post/protocols/user-licence/' target='_blank'>《用戶協議》</a> 和<a target='_blank' href='https://giantapp.cn/post/protocols/privacy-pc/'>《隱私政策》 </a>",
+    "loginTips": "登錄即代表你同意<a href='https://mp.weixin.qq.com/s?__biz=Mzg5NjY2ODY0Nw==&mid=2247483873&idx=1&sn=a0454669685ab200a1a64509df92ecf3&poc_token=HChJHGmjDKxD6KM9bQ-2vaDRDTEjwehZuDweBvA5' target='_blank'>《用戶協議》</a> 和<a target='_blank' href='https://mp.weixin.qq.com/s?__biz=Mzg5NjY2ODY0Nw==&mid=2247483885&idx=1&sn=1609c022c801b7408fb66d7075b5178a&poc_token=HClJHGmjJtOGOvs_sLv8vSaQo4GFRdRgYsRv8Ya_'>《隱私政策》 </a>",
     "needRightFromUrl": "你必須登錄才能訪問 <strong>{url}</strong>"
   },
   "register": {
-    "registerTips": "我同意<a href='https://giantapp.cn/post/protocols/user-licence/' target='_blank'>《用戶協議》</a> 和<a target='_blank' href='https://giantapp.cn/post/protocols/privacy-pc/'>《隱私政策》 </a>",
+    "registerTips": "我同意<a href='https://mp.weixin.qq.com/s?__biz=Mzg5NjY2ODY0Nw==&mid=2247483873&idx=1&sn=a0454669685ab200a1a64509df92ecf3&poc_token=HChJHGmjDKxD6KM9bQ-2vaDRDTEjwehZuDweBvA5' target='_blank'>《用戶協議》</a> 和<a target='_blank' href='https://mp.weixin.qq.com/s?__biz=Mzg5NjY2ODY0Nw==&mid=2247483885&idx=1&sn=1609c022c801b7408fb66d7075b5178a&poc_token=HClJHGmjJtOGOvs_sLv8vSaQo4GFRdRgYsRv8Ya_'>《隱私政策》 </a>",
     "title": "註冊賬戶",
     "register": "註冊",
     "haveAccount": "已有賬戶",

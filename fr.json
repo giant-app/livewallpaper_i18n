@@ -183,11 +183,11 @@
   },
   "login": {
     "title": "Connexion au compte",
-    "loginTips": "La connexion signifie que vous acceptez les <a href='https://giantapp.cn/post/protocols/user-licence/' target='_blank'>User Agreement </a> and <a target='_blank' href='https://giantapp.cn/post/protocols/privacy-pc/'>Privacy Policy </a>",
+    "loginTips": "La connexion signifie que vous acceptez les <a href='https://mp.weixin.qq.com/s?__biz=Mzg5NjY2ODY0Nw==&mid=2247483873&idx=1&sn=a0454669685ab200a1a64509df92ecf3&poc_token=HChJHGmjDKxD6KM9bQ-2vaDRDTEjwehZuDweBvA5' target='_blank'>User Agreement </a> and <a target='_blank' href='https://mp.weixin.qq.com/s?__biz=Mzg5NjY2ODY0Nw==&mid=2247483885&idx=1&sn=1609c022c801b7408fb66d7075b5178a&poc_token=HClJHGmjJtOGOvs_sLv8vSaQo4GFRdRgYsRv8Ya_'>Privacy Policy </a>",
     "needRightFromUrl": "Vous devez vous connecter avant d'accéder à l' <strong>{url}</strong>"
   },
   "register": {
-    "registerTips": "J'accepte les <a href='https://giantapp.cn/post/protocols/user-licence/' target='_blank'>User Agreement </a> and <a target='_blank' href='https://giantapp.cn/post/protocols/privacy-pc/'>Privacy Policy </a>",
+    "registerTips": "J'accepte les <a href='https://mp.weixin.qq.com/s?__biz=Mzg5NjY2ODY0Nw==&mid=2247483873&idx=1&sn=a0454669685ab200a1a64509df92ecf3&poc_token=HChJHGmjDKxD6KM9bQ-2vaDRDTEjwehZuDweBvA5' target='_blank'>User Agreement </a> and <a target='_blank' href='https://mp.weixin.qq.com/s?__biz=Mzg5NjY2ODY0Nw==&mid=2247483885&idx=1&sn=1609c022c801b7408fb66d7075b5178a&poc_token=HClJHGmjJtOGOvs_sLv8vSaQo4GFRdRgYsRv8Ya_'>Privacy Policy </a>",
     "title": "Crée un compte",
     "register": "Crée",
     "haveAccount": "Déja un compte",

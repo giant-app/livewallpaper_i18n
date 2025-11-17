@@ -183,11 +183,11 @@
   },
   "login": {
     "title": "Konto anmelden",
-    "loginTips": "Durch die Anmeldung erklären Sie sich mit der <a href='https://giantapp.cn/post/protocols/user-licence/' target='_blank'>Benutzervereinbarung </a> und der <a target='_blank' href='https://giantapp.cn/post/protocols/privacy-pc/'>Datenschutzerklärung </a> einverstanden",
+    "loginTips": "Durch die Anmeldung erklären Sie sich mit der <a href='https://mp.weixin.qq.com/s?__biz=Mzg5NjY2ODY0Nw==&mid=2247483873&idx=1&sn=a0454669685ab200a1a64509df92ecf3&poc_token=HChJHGmjDKxD6KM9bQ-2vaDRDTEjwehZuDweBvA5' target='_blank'>Benutzervereinbarung </a> und der <a target='_blank' href='https://mp.weixin.qq.com/s?__biz=Mzg5NjY2ODY0Nw==&mid=2247483885&idx=1&sn=1609c022c801b7408fb66d7075b5178a&poc_token=HClJHGmjJtOGOvs_sLv8vSaQo4GFRdRgYsRv8Ya_'>Datenschutzerklärung </a> einverstanden",
     "needRightFromUrl": "Sie müssen sich anmelden, bevor Sie auf <strong>{url}</strong> zugreifen können"
   },
   "register": {
-    "registerTips": "Ich stimme der <a href='https://giantapp.cn/post/protocols/user-licence/' target='_blank'>Benutzervereinbarung </a> und der <a target='_blank' href='https://giantapp.cn/post/protocols/privacy-pc/'>Datenschutzerklärung </a> zu",
+    "registerTips": "Ich stimme der <a href='https://mp.weixin.qq.com/s?__biz=Mzg5NjY2ODY0Nw==&mid=2247483873&idx=1&sn=a0454669685ab200a1a64509df92ecf3&poc_token=HChJHGmjDKxD6KM9bQ-2vaDRDTEjwehZuDweBvA5' target='_blank'>Benutzervereinbarung </a> und der <a target='_blank' href='https://mp.weixin.qq.com/s?__biz=Mzg5NjY2ODY0Nw==&mid=2247483885&idx=1&sn=1609c022c801b7408fb66d7075b5178a&poc_token=HClJHGmjJtOGOvs_sLv8vSaQo4GFRdRgYsRv8Ya_'>Datenschutzerklärung </a> zu",
     "title": "Konto registrieren",
     "register": "Registrieren",
     "haveAccount": "Bereits ein Konto vorhanden",
