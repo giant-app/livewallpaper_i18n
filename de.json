@@ -310,7 +310,9 @@
     },
     "wallpapers": {
       "editor": {
-        "copyrightDescription": "Respektieren Sie das Urheberrecht, laden Sie bitte legale Videos neu und kennzeichnen Sie die Quelladresse."
+        "copyrightDescription": "Respektieren Sie das Urheberrecht, laden Sie bitte legale Videos neu und kennzeichnen Sie die Quelladresse.",
+        "migrateNotice": "Einsendungen auf GiantApp 2 werden bald gesperrt. Bitte reiche deine Wallpaper über GiantApp 3 ein – Konto und Daten gelten auf beiden Plattformen, ein erneutes Hochladen ist nicht erforderlich.",
+        "migrateNoticeAction": "Zu GiantApp 3 wechseln"
       }
     },
     "client": {

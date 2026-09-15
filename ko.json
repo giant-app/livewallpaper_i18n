@@ -310,7 +310,9 @@
     },
     "wallpapers": {
       "editor": {
-        "copyrightDescription": "저작권을 존중하고 합법적인 비디오를 재인쇄하며 출처 주소를 표시하세요."
+        "copyrightDescription": "저작권을 존중하고 합법적인 비디오를 재인쇄하며 출처 주소를 표시하세요.",
+        "migrateNotice": "GiantApp 2는 곧 투고가 금지됩니다. GiantApp 3에서 투고해 주세요. 계정과 작품 데이터는 두 플랫폼에서 공유되므로 다시 업로드할 필요가 없습니다.",
+        "migrateNoticeAction": "GiantApp 3에서 투고하기"
       }
     },
     "client": {

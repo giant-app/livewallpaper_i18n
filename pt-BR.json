@@ -310,7 +310,9 @@
     },
     "wallpapers": {
       "editor": {
-        "copyrightDescription": "Respeite os direitos autorais, por favor, reedite o vídeo legal e marque o endereço de origem."
+        "copyrightDescription": "Respeite os direitos autorais, por favor, reedite o vídeo legal e marque o endereço de origem.",
+        "migrateNotice": "As publicações no GiantApp 2 serão em breve proibidas. Envie seus papéis de parede no GiantApp 3 — a conta e os dados são comuns às duas plataformas, não é necessário enviá-los novamente.",
+        "migrateNoticeAction": "Ir para o GiantApp 3"
       }
     },
     "client": {

@@ -310,7 +310,9 @@
     },
     "wallpapers": {
       "editor": {
-        "copyrightDescription": "尊重版权，请转载合法作品，并标注来源地址。"
+        "copyrightDescription": "尊重版权，请转载合法作品，并标注来源地址。",
+        "migrateNotice": "巨应2即将禁止投稿，请前往巨应3继续投稿，两边账号与作品数据通用，无需重新上传。",
+        "migrateNoticeAction": "前往巨应3投稿"
       }
     },
     "client": {

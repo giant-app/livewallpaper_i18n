@@ -310,7 +310,9 @@
     },
     "wallpapers": {
       "editor": {
-        "copyrightDescription": "Respect the copyright, please reprint the legal video, and mark the source address."
+        "copyrightDescription": "Respect the copyright, please reprint the legal video, and mark the source address.",
+        "migrateNotice": "Submissions on GiantApp 2 will be discontinued soon. Please submit your wallpapers on GiantApp 3 instead — accounts and wallpaper data are shared across both platforms, so there is no need to upload again.",
+        "migrateNoticeAction": "Go to GiantApp 3"
       }
     },
     "client": {

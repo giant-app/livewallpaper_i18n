@@ -308,7 +308,9 @@
     },
     "wallpapers": {
       "editor": {
-        "copyrightDescription": "Respectez les droits d'auteur, réutiliser la vidéo légale en indiquant l'adresse de la source."
+        "copyrightDescription": "Respectez les droits d'auteur, réutiliser la vidéo légale en indiquant l'adresse de la source.",
+        "migrateNotice": "Les publications sur GiantApp 2 seront bientôt interdites. Veuillez soumettre vos fonds d'écran sur GiantApp 3 — le compte et les données sont communs aux deux plateformes, inutile de les téléverser à nouveau.",
+        "migrateNoticeAction": "Aller sur GiantApp 3"
       }
     },
     "client": {

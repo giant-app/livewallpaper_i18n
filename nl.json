@@ -310,7 +310,9 @@
     },
     "wallpapers": {
       "editor": {
-        "copyrightDescription": "Respecteer het auteursrecht, herpubliceer legale video's en vermeld het bronadres."
+        "copyrightDescription": "Respecteer het auteursrecht, herpubliceer legale video's en vermeld het bronadres.",
+        "migrateNotice": "Inzendingen op GiantApp 2 worden binnenkort verboden. Stuur je wallpapers in via GiantApp 3 — account en gegevens gelden op beide platforms, opnieuw uploaden is niet nodig.",
+        "migrateNoticeAction": "Ga naar GiantApp 3"
       }
     },
     "client": {

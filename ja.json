@@ -310,7 +310,9 @@
     },
     "wallpapers": {
       "editor": {
-        "copyrightDescription": "著作権を尊重し、合法的な動画を転載してください。出典アドレスを記載してください。"
+        "copyrightDescription": "著作権を尊重し、合法的な動画を転載してください。出典アドレスを記載してください。",
+        "migrateNotice": "GiantApp 2ではまもなく投稿ができなくなります。GiantApp 3からご投稿ください。アカウントと作品データは両プラットフォームで共通のため、再アップロードは不要です。",
+        "migrateNoticeAction": "GiantApp 3で投稿"
       }
     },
     "client": {
